@@ -1,0 +1,985 @@
+,Price,Type,Dedicated Graphic Memory Capacity,Processor Brand,Processor Name,SSD,RAM,Expandable Memory,Operating System,Touchscreen,Screen Size,Weight,max_res,gpu_brand,company,Storage,battery_back,gpu_processor
+0,234990,1,8192,intel,core i9,1,32,1,windows,0,17.3,2.9,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3070 ti
+1,229990,1,8192,intel,core i9,1,32,1,windows,0,15.6,2.3,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3070 ti
+2,104091,1,4096,amd,ryzen 7 octa core,1,16,0,windows,0,16.1,2.48,1080,nvidia,hp,512,2.0,nvidia geforce rtx 3050
+3,87717,1,4096,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,2.25,1080,nvidia,lenovo,512,2.0,nvidia geforce rtx 3050
+4,75990,2,0,intel,core i5,1,16,0,windows,1,14.0,1.4946421471172964,1080,none,lenovo,512,4.5,intel hd
+5,78395,2,0,intel,core i7,1,16,0,windows,0,14.0,1.36,1080,none,lenovo,512,4.5,iris xe
+6,29290,2,0,intel,celeron dual core,1,4,0,windows,0,15.6,1.4946421471172964,1080,none,lenovo,256,4.5,intel hd
+7,91308,3,0,amd,ryzen 7 octa core,1,16,0,windows,1,13.3,1.31,1080,none,lenovo,1000,5.0,amd radeon
+8,64990,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce gtx 1650
+9,32999,4,0,intel,pentium silver,1,8,1,windows,0,15.6,1.61,1080,none,dell,256,4.5,intel uhd
+10,30990,4,0,amd,athlon dual core,1,8,1,windows,0,15.6,1.68,1080,amd,dell,256,4.5,amd radeon
+11,149645,2,0,intel,core i5,1,16,1,windows,0,13.4,1.16,1080,none,dell,512,4.5,intel iris xe
+12,99219,3,0,amd,ryzen 7 octa core,1,16,0,windows,1,14.0,1.43,1080,none,lenovo,512,5.0,amd radeon
+13,82980,1,4096,amd,ryzen 7 dual core,1,16,0,windows,0,15.6,2.0686486486486486,1080,nvidia,asus,1024,2.0,nvidia geforce rtx 3050
+14,36949,5,0,amd,ryzen 3 quad core,1,8,0,windows,0,15.6,0.9746666666666668,1080,amd,asus,256,5.0,amd radeon
+15,129990,6,4096,amd,ryzen 9 octa core,1,32,1,windows,1,13.4,1.3,1080,nvidia,asus,1000,4.0,nvidia geforce gtx 1650
+16,158270,1,8192,intel,core i7,1,16,1,windows,0,15.6,2.9,1080,nvidia,msi,1000,2.0,nvidia geforce rtx 3070
+17,47990,5,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,256,5.0,intel uhd
+18,64990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.37,1440,none,realme,512,4.5,intel iris xe
+19,64990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.37,1440,none,realme,512,4.5,intel iris xe
+20,64990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.37,1440,none,realme,512,4.5,intel iris xe
+21,103990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.65,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050 ti
+22,69490,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,2.57,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050
+23,21990,5,0,intel,celeron dual core,1,4,0,windows,0,14.1,0.9746666666666668,1080,none,avita,128,5.0,intel uhd
+24,74990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.5,1440,none,asus,512,4.5,iris xe
+25,94990,2,0,intel,core i7,1,16,0,windows,0,14.0,1.5,1440,none,asus,512,4.5,intel iris xe
+26,89990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.39,1440,none,asus,512,4.5,intel iris xe
+27,134990,2,0,intel,core i7,1,16,0,windows,1,14.0,1.4,1440,none,asus,1000,4.5,intel iris xe
+28,74990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.5,1440,none,asus,512,4.5,iris xe
+29,104990,2,0,intel,core i7,1,16,0,windows,0,14.0,1.39,1440,none,asus,512,4.5,intel iris xe
+30,94990,2,0,intel,core i7,1,16,0,windows,0,14.0,1.5,1440,none,asus,512,4.5,iris xe
+31,114990,2,0,intel,core i5,1,16,0,windows,1,14.0,1.4,1440,none,asus,512,4.5,intel iris xe
+32,42990,2,0,amd,ryzen 5 quad core,1,8,1,windows,0,14.0,1.59,1080,amd,dell,256,4.5,amd radeon vega 8
+33,80500,1,4096,amd,ryzen 7 hexa core,1,8,0,windows,0,15.6,2.0686486486486486,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050
+34,106990,1,6144,amd,ryzen 9 octa core,1,16,0,windows,0,16.6,2.0686486486486486,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3060
+35,43430,2,0,intel,core i5,1,8,0,windows,0,15.6,1.4946421471172964,1080,none,asus,256,4.5,intel hd
+36,65990,5,0,intel,core i5,1,8,0,windows,0,15.6,0.9746666666666668,720,none,asus,1256,5.0,intel hd
+37,82449,1,4096,amd,ryzen 7 quad core,1,8,0,windows,0,17.3,2.0686486486486486,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+38,60990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel iris xe
+39,47990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,none,asus,512,4.5,intel uhd
+40,138990,1,6144,intel,core i7,1,16,1,windows,0,15.6,2.57,1440,nvidia,dell,1000,2.0,nvidia geforce rtx 3060
+41,87990,1,4096,intel,core i5,1,16,1,windows,0,15.6,2.57,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050
+42,127990,1,6144,intel,core i7,1,16,1,windows,0,15.6,2.57,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3060
+43,36990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,720,none,asus,256,4.5,intel uhd
+44,74490,1,4096,intel,core i5,1,16,0,windows,0,15.6,2.65,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050
+45,117490,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.57,1080,nvidia,dell,1000,2.0,nvidia geforce rtx 3050 ti
+46,104990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.57,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050 ti
+47,69490,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.65,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050
+48,49990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.65,1080,none,acer,512,4.5,intel iris xe
+49,50990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,1256,4.5,intel uhd
+50,30990,2,0,intel,core i3,0,8,0,windows,0,15.6,1.8,1080,none,asus,1000,4.5,intel uhd
+51,67949,5,0,intel,core i5,1,16,0,windows,0,15.6,0.9746666666666668,1080,none,asus,512,5.0,intel hd
+52,64990,2,2048,intel,core i5,1,8,1,windows,0,15.6,1.75,1080,nvidia,hp,512,4.5,nvidia geforce mx 450
+53,71999,2,0,amd,ryzen 7 octa core,1,16,0,windows,0,14.0,1.41,1080,amd,hp,512,4.5,amd radeon
+54,62900,2,0,amd,ryzen 5 hexa core,1,16,0,windows,0,14.0,1.41,1080,amd,hp,512,4.5,amd radeon
+55,78900,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.0686486486486486,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+56,24990,4,0,intel,celeron dual core,1,4,0,windows,0,11.6,1.4,720,none,acer,256,4.5,intel uhd 600
+57,23990,4,0,intel,celeron dual core,1,4,0,windows,0,11.6,1.4,720,none,acer,128,4.5,intel uhd 600
+58,64990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.2,1080,nvidia,acer,512,2.0,nvidia geforce gtx 1650
+59,25990,2,0,intel,celeron dual core,1,4,0,windows,0,14.0,1.6,720,none,asus,256,4.5,intel uhd
+60,49890,2,0,intel,core i5,1,8,0,windows,0,15.6,1.7,1080,none,acer,512,4.5,intel iris xe
+61,109990,1,4096,intel,core i7,1,16,0,windows,0,15.6,2.6,1080,nvidia,acer,1512,2.0,nvidia geforce rtx 3050 ti
+62,78190,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.98,1080,nvidia,hp,512,2.0,nvidia geforce rtx 3050 ti
+63,129980,5,4096,intel,core i7,1,16,0,windows,0,16.1,2.32,1080,nvidia,hp,1000,5.0,nvidia geforce rtx 3050 ti
+64,53990,4,0,intel,core i3,1,8,1,windows,0,15.6,1.9,1080,none,lenovo,512,4.5,intel uhd
+65,44900,2,0,amd,ryzen 5 quad core,1,8,0,windows,0,15.6,1.4946421471172964,720,amd,asus,512,4.5,amd radeon
+66,36890,2,0,intel,pentium quad core,1,8,1,windows,0,15.6,1.8,720,none,dell,256,4.5,intel uhd
+67,66500,5,0,intel,core i5,1,8,0,windows,0,15.6,0.9746666666666668,1080,none,asus,1256,5.0,intel hd
+68,89590,1,4096,amd,ryzen 7 quad core,1,16,0,windows,0,15.6,2.0686486486486486,1080,amd,asus,512,2.0,nvidia geforce rtx 3050
+69,68900,2,0,amd,ryzen 5 quad core,1,16,1,windows,0,16.0,1.9,1080,amd,dell,512,4.5,amd radeon
+70,92490,1,4096,intel,core i5,1,16,1,windows,0,15.6,2.4,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050 ti
+71,116990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.2,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050 ti
+72,234990,1,8192,intel,core i9,1,32,1,windows,0,17.3,2.9,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3070 ti
+73,229990,1,8192,intel,core i9,1,32,1,windows,0,15.6,2.3,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3070 ti
+74,104091,1,4096,amd,ryzen 7 octa core,1,16,0,windows,0,16.1,2.48,1080,nvidia,hp,512,2.0,nvidia geforce rtx 3050
+75,87717,1,4096,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,2.25,1080,nvidia,lenovo,512,2.0,nvidia geforce rtx 3050
+76,75990,2,0,intel,core i5,1,16,0,windows,1,14.0,1.4946421471172964,1080,none,lenovo,512,4.5,intel hd
+77,78395,2,0,intel,core i7,1,16,0,windows,0,14.0,1.36,1080,none,lenovo,512,4.5,iris xe
+78,29290,2,0,intel,celeron dual core,1,4,0,windows,0,15.6,1.4946421471172964,1080,none,lenovo,256,4.5,intel hd
+79,91308,3,0,amd,ryzen 7 octa core,1,16,0,windows,1,13.3,1.31,1080,none,lenovo,1000,5.0,amd radeon
+80,64990,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce gtx 1650
+81,32999,4,0,intel,pentium silver,1,8,1,windows,0,15.6,1.61,1080,none,dell,256,4.5,intel uhd
+82,30990,4,0,amd,athlon dual core,1,8,1,windows,0,15.6,1.68,1080,amd,dell,256,4.5,amd radeon
+83,149645,2,0,intel,core i5,1,16,1,windows,0,13.4,1.16,1080,none,dell,512,4.5,intel iris xe
+84,99219,3,0,amd,ryzen 7 octa core,1,16,0,windows,1,14.0,1.43,1080,none,lenovo,512,5.0,amd radeon
+85,82980,1,4096,amd,ryzen 7 dual core,1,16,0,windows,0,15.6,2.0686486486486486,1080,nvidia,asus,1024,2.0,nvidia geforce rtx 3050
+86,36949,5,0,amd,ryzen 3 quad core,1,8,0,windows,0,15.6,0.9746666666666668,1080,amd,asus,256,5.0,amd radeon
+87,129990,6,4096,amd,ryzen 9 octa core,1,32,1,windows,1,13.4,1.3,1080,nvidia,asus,1000,4.0,nvidia geforce gtx 1650
+88,158270,1,8192,intel,core i7,1,16,1,windows,0,15.6,2.9,1080,nvidia,msi,1000,2.0,nvidia geforce rtx 3070
+89,47990,5,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,256,5.0,intel uhd
+90,64990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.37,1440,none,realme,512,4.5,intel iris xe
+91,64990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.37,1440,none,realme,512,4.5,intel iris xe
+92,64990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.37,1440,none,realme,512,4.5,intel iris xe
+93,103990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.65,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050 ti
+94,69490,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,2.57,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050
+95,21990,5,0,intel,celeron dual core,1,4,0,windows,0,14.1,0.9746666666666668,1080,none,avita,128,5.0,intel uhd
+96,90290,1,4096,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,2.57,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050
+97,40990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.69,1080,none,hp,512,4.5,intel uhd
+98,73990,1,4096,amd,ryzen 5 hexa core,1,16,0,windows,0,15.6,2.57,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050
+99,44990,2,0,amd,ryzen 5 quad core,1,8,0,windows,0,14.0,1.6,1080,amd,asus,512,4.5,amd radeon vega 8
+100,49990,3,0,intel,core i3,1,8,0,windows,1,14.0,1.5,1080,none,asus,256,5.0,intel uhd
+101,42990,2,0,intel,core i5,0,8,0,windows,0,15.6,1.8,1080,none,asus,1000,4.5,intel uhd
+102,24999,5,0,intel,celeron dual core,1,4,0,windows,0,11.6,1.26,720,none,asus,128,5.0,intel uhd
+103,29990,5,0,intel,celeron dual core,1,4,0,windows,1,11.6,1.4,720,none,asus,128,5.0,intel uhd
+104,64990,2,0,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,1.8,1080,amd,asus,512,4.5,amd radeon
+105,63990,3,0,intel,core i5,1,8,0,windows,1,14.0,1.5,1080,none,asus,512,5.0,iris xe
+106,64990,2,0,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,1.8,1080,amd,asus,512,4.5,amd radeon
+107,26990,2,0,intel,celeron quad core,1,4,0,windows,0,15.6,1.8,720,none,asus,256,4.5,intel uhd
+108,52990,3,0,intel,core i3,1,8,0,windows,1,14.0,1.5,1080,none,asus,512,5.0,intel uhd
+109,38990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,512,4.5,intel uhd
+110,52990,2,0,amd,ryzen 7 quad core,1,16,0,windows,0,14.0,1.6,1080,amd,asus,512,4.5,amd radeon rx vega 10
+111,34990,2,0,intel,core i3,0,8,0,windows,0,15.6,1.8,720,none,asus,1000,4.5,intel uhd
+112,40990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,1256,4.5,intel uhd
+113,61990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.75,1080,amd,hp,512,4.5,amd radeon
+114,208190,5,6144,intel,core i9,1,32,0,windows,0,15.6,2.14,2160,nvidia,hp,1000,5.0,nvidia geforce rtx 3060
+115,27490,2,0,intel,celeron quad core,0,4,0,chrome,1,14.0,1.49,720,none,hp,64,4.5,intel uhd
+116,27490,2,0,intel,celeron dual core,0,4,0,chrome,1,14.0,1.49,720,none,hp,64,4.5,intel uhd
+117,163190,2,4096,intel,core i7,1,16,0,windows,1,15.6,2.14,2160,nvidia,hp,1000,4.5,nvidia geforce rtx 3050
+118,54990,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,14.0,1.41,1080,amd,hp,512,4.5,amd radeon
+119,60190,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.75,1080,amd,hp,512,4.5,amd radeon
+120,60190,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.75,1080,amd,hp,512,4.5,amd radeon
+121,54990,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,14.0,1.41,1080,amd,hp,512,4.5,amd radeon
+122,163190,2,4096,intel,core i7,1,16,0,windows,1,15.6,2.14,2160,nvidia,hp,1000,4.5,nvidia geforce rtx 3050
+123,44499,2,0,intel,core i3,1,8,1,windows,0,15.6,1.8,1080,none,dell,512,4.5,intel uhd
+124,54890,5,0,amd,ryzen 7 quad core,1,16,0,windows,0,15.6,1.8,1080,amd,asus,512,5.0,amd radeon rx vega 10
+125,35988,7,0,intel,core i3,1,4,0,dos,0,15.6,1.8,1080,none,asus,256,6.0,intel hd
+126,72990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.25,1080,nvidia,lenovo,512,2.0,nvidia geforce rtx 3050
+127,55990,2,0,intel,core i3,1,8,0,windows,1,14.0,1.52,1080,none,hp,512,4.5,intel uhd
+128,38990,5,0,qualcomm,snapdragon 7c gen 2,0,8,0,windows,0,14.0,1.25,1080,qualcomm,hp,128,5.0,qualcomm adreno 618 gpu
+129,77990,1,4096,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.25,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+130,69990,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,2.25,1080,nvidia,lenovo,512,2.0,nvidia geforce rtx 3050
+131,58990,3,0,intel,core i3,1,8,0,windows,1,14.0,1.34171875,1080,none,lenovo,512,5.0,intel uhd
+132,23990,2,0,intel,celeron dual core,1,4,0,windows,0,11.6,1.4946421471172964,720,none,lenovo,256,4.5,intel uhd
+133,87990,2,0,intel,core i7,1,16,0,windows,1,14.0,1.52,1080,none,hp,512,4.5,iris xe
+134,57990,3,0,amd,ryzen 5 hexa core,1,8,0,windows,1,14.0,1.34171875,1080,amd,lenovo,512,5.0,amd radeon
+135,42990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.4946421471172964,1080,none,lenovo,512,4.5,intel uhd
+136,75190,2,0,intel,core i5,1,16,0,windows,1,14.0,1.52,1080,none,hp,512,4.5,iris xe
+137,99990,3,0,intel,core i7,1,16,0,windows,1,14.0,1.34171875,1080,none,lenovo,512,5.0,intel iris xe
+138,46790,2,0,amd,ryzen 5 dual core,1,8,1,windows,0,15.6,1.8,1080,amd,dell,512,4.5,amd radeon vega 
+139,40990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.8,1080,none,dell,512,4.5,intel uhd
+140,42990,2,0,intel,core i3,1,8,1,windows,0,14.0,1.46,1080,none,hp,512,4.5,intel uhd
+141,40990,2,0,amd,ryzen 3 dual core,1,8,1,windows,0,15.6,1.8,1080,amd,dell,512,4.5,amd radeon
+142,40990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,dell,1256,4.5,intel uhd
+143,155490,5,6144,intel,core i7,1,16,0,windows,0,16.1,2.32,1080,nvidia,hp,1000,5.0,nvidia geforce rtx 3060
+144,38990,7,0,intel,core i3,1,4,0,windows,0,14.0,0.8,720,none,asus,256,6.0,intel uhd
+145,104490,1,4096,amd,ryzen 7 octa core,1,16,1,windows,0,16.1,2.32,1080,nvidia,hp,512,2.0,nvidia geforce rtx 3050 ti
+146,125500,1,0,amd,ryzen 7 octa core,1,16,1,windows,0,16.1,2.32,1080,amd,hp,1000,2.0,amd radeon rx 6600m
+147,40699,5,0,intel,core i3,0,8,0,windows,0,15.6,0.9746666666666668,720,none,hp,1000,5.0,intel hd
+148,37990,5,0,amd,ryzen 3 dual core,0,8,0,windows,0,15.6,0.9746666666666668,720,amd,hp,1000,5.0,amd radeon
+149,83990,1,4096,amd,ryzen 7 octa core,1,8,1,windows,0,15.6,2.1,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050
+150,61986,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.3,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+151,43199,5,0,intel,core i3,1,8,0,windows,0,15.6,0.9746666666666668,1080,none,hp,512,5.0,intel hd
+152,114990,1,4096,amd,ryzen 7 octa core,1,16,1,windows,0,14.0,1.6,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+153,133990,1,6144,amd,ryzen 7 octa core,1,16,1,windows,0,17.3,2.6,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3060
+154,32990,2,0,intel,celeron dual core,1,8,0,windows,0,14.0,1.46,720,none,hp,256,4.5,intel uhd
+155,79998,3,0,amd,ryzen 7 octa core,1,16,0,windows,1,13.3,1.32,1080,amd,lenovo,512,5.0,amd radeon
+156,54100,3,0,intel,pentium quad core,0,4,0,windows,1,13.3,1.34171875,1080,none,asus,256,5.0,intel hd
+157,95990,1,4096,intel,core i7,1,16,0,windows,0,17.3,2.0686486486486486,1080,nvidia,asus,516,2.0,nvidia geforce rtx 3050
+158,89251,5,0,intel,core i5,1,8,0,windows,0,15.6,0.9746666666666668,720,none,hp,512,5.0,intel hd
+159,259990,1,8192,intel,core i7,1,16,0,windows,0,15.6,2.38,1440,nvidia,msi,1000,2.0,nvidia geforce rtx 3070 ti
+160,179990,1,8192,intel,core i7,1,16,0,windows,0,15.6,2.47,1440,nvidia,msi,1000,2.0,nvidia geforce rtx 3070
+161,36990,2,0,qualcomm,snapdragon 7c gen 2,0,4,0,windows,0,14.0,1.38,1080,qualcomm,samsung,128,4.5,qualcomm adreno
+162,144990,1,6144,intel,core i9,1,16,1,windows,0,15.6,2.3,1080,nvidia,acer,1000,2.0,nvidia geforce rtx 3060
+163,47499,5,0,intel,core i5,0,4,0,dos,0,14.0,0.9746666666666668,720,none,lenovo,1000,5.0,intel hd
+164,118990,1,4096,intel,core i7,1,16,1,windows,0,16.1,2.32,1080,nvidia,hp,1000,2.0,nvidia geforce rtx 3050ti
+165,116990,1,4096,intel,core i7,1,16,1,windows,0,16.1,2.32,1080,nvidia,hp,1000,2.0,nvidia geforce rtx 3050
+166,29940,5,0,intel,pentium quad core,0,4,0,windows,0,15.6,1.8,720,none,asus,1000,5.0,intel uhd
+167,86990,1,4096,intel,core i7,1,8,1,windows,0,15.6,2.25,1080,nvidia,msi,512,2.0,nvidia geforce rtx 3050
+168,52380,5,0,amd,ryzen 5 quad core,1,8,0,windows,0,15.6,0.9746666666666668,1080,amd,hp,512,5.0,amd radeon
+169,53499,5,0,intel,core i3,1,8,0,windows,0,14.0,0.9746666666666668,1080,none,hp,512,5.0,intel hd
+170,48990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,256,4.5,intel uhd
+171,26800,2,0,intel,celeron dual core,0,4,0,windows,0,11.6,1.05,720,none,asus,128,4.5,intel uhd 600
+172,46800,5,0,intel,core i3,1,8,0,windows,0,15.6,0.9746666666666668,1080,none,asus,256,5.0,intel hd
+173,61990,2,0,amd,ryzen 5 hexa core,1,16,0,windows,0,15.6,1.8,1080,amd,asus,512,4.5,amd radeon
+174,61990,2,0,amd,ryzen 5 hexa core,1,16,0,windows,0,15.6,1.8,1080,amd,asus,512,4.5,amd radeon
+175,21990,2,0,intel,celeron dual core,0,4,0,windows,0,11.6,1.05,720,none,asus,64,4.5,intel uhd 600
+176,31990,2,0,intel,core i3,0,8,0,windows,0,15.6,1.8,1080,none,asus,1000,4.5,intel uhd
+177,21990,2,0,intel,celeron dual core,0,4,0,windows,0,11.6,1.05,720,none,asus,64,4.5,intel uhd 600
+178,31990,2,0,intel,pentium silver,1,8,0,windows,0,14.0,1.3,720,none,asus,256,4.5,intel hd
+179,114990,2,2048,intel,core i5,1,16,0,windows,1,14.0,1.62,1080,nvidia,asus,512,4.5,nvidia geforce mx 450
+180,114990,1,4096,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,2.1,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+181,301990,1,16384,intel,core i9,1,32,1,windows,0,15.6,2.3,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3080 ti
+182,113990,1,4096,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,2.1,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050
+183,50990,2,128,intel,core i7,1,16,0,windows,0,14.0,1.48,1080,none,infinix,512,4.5,intel iris plus
+184,108990,1,4096,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.1,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050
+185,114990,1,4096,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.1,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+186,50990,2,128,intel,core i7,1,16,0,windows,0,14.0,1.48,1080,none,infinix,512,4.5,intel iris plus
+187,264990,1,16384,intel,core i9,1,32,1,windows,0,15.6,2.3,1440,nvidia,asus,2000,2.0,nvidia geforce rtx 3070 ti
+188,99990,2,4096,amd,ryzen 9 octa core,1,16,0,windows,0,14.0,1.45,1440,nvidia,asus,1000,4.5,nvidia geforce rtx 3050
+189,116500,1,4096,amd,ryzen 9 octa core,1,8,0,windows,0,14.0,1.45,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3050 ti
+190,99990,1,4096,amd,ryzen 9 octa core,1,8,0,windows,0,14.0,1.45,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+191,162990,5,4096,amd,ryzen 9 octa core,1,16,0,windows,0,16.0,1.95,2160,nvidia,asus,1000,5.0,nvidia geforce rtx 3050
+192,79990,2,0,intel,core i5,1,16,0,windows,0,13.3,1.14,1080,none,asus,512,4.5,iris xe
+193,134990,2,0,amd,ryzen 9 octa core,1,16,0,windows,1,14.0,1.4,1440,amd,asus,1000,4.5,amd radeon
+194,49990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.6,1080,none,asus,1256,4.5,intel iris xe
+195,94990,2,0,intel,core i7,1,16,0,windows,0,13.3,1.14,1080,none,asus,1000,4.5,iris xe
+196,40990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.8,1080,none,dell,512,4.5,intel uhd
+197,69990,2,0,intel,core i5,1,8,0,windows,0,13.3,1.14,1080,none,asus,512,4.5,iris xe
+198,35990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.6,1080,none,asus,256,4.5,intel uhd
+199,52632,2,0,amd,ryzen 3 dual core,0,8,1,windows,0,15.6,1.8,1080,amd,dell,1000,4.5,amd radeon
+200,33999,2,0,intel,pentium quad core,1,8,0,windows,0,14.0,1.46,720,none,hp,256,4.5,intel uhd
+201,79990,2,0,intel,core i5,1,16,0,windows,0,13.3,1.14,1080,none,asus,512,4.5,iris xe
+202,89990,2,0,intel,core i7,1,16,0,windows,0,13.3,1.14,1080,none,asus,512,4.5,iris xe
+203,114900,2,0,amd,ryzen 7 octa core,1,16,0,windows,1,14.0,1.4,1440,amd,asus,1000,4.5,amd radeon
+204,41999,2,0,intel,core i3,1,8,1,windows,0,14.0,1.59,1080,none,dell,256,4.5,intel uhd
+205,68100,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,16.1,2.0686486486486486,1080,nvidia,hp,512,2.0,nvidia geforce gtx
+206,26990,5,0,intel,pentium quad core,0,4,0,windows,0,15.6,1.9,1080,none,acer,1000,5.0,intel uhd 605
+207,32990,2,0,intel,core i3,1,4,0,windows,0,15.6,1.7,1080,none,acer,256,4.5,intel uhd
+208,38990,4,0,intel,core i3,1,8,0,windows,0,15.6,1.7,1080,none,acer,512,4.5,intel uhd
+209,82000,5,4096,intel,core i5,1,8,0,windows,0,16.1,0.9746666666666668,1080,nvidia,hp,512,5.0,nvidia geforce rtx
+210,48990,4,0,intel,core i5,0,8,0,windows,0,15.6,1.7,1080,none,acer,1000,4.5,iris xe
+211,24990,5,0,amd,dual core,1,4,0,windows,0,14.0,1.9,720,amd,acer,256,5.0,amd radeon
+212,62990,2,0,intel,core i5,1,16,0,windows,0,15.6,1.66,1080,none,lenovo,512,4.5,iris xe
+213,40990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.7,1080,none,lenovo,512,4.5,intel uhd
+214,45799,2,0,intel,core i5,1,8,1,windows,0,15.6,1.7,1080,none,lenovo,512,4.5,intel uhd
+215,50990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.4946421471172964,1080,none,lenovo,512,4.5,iris xe
+216,44490,2,0,intel,core i3,1,8,0,windows,0,14.1,1.4,1080,none,asus,512,4.5,intel uhd
+217,28290,5,0,intel,celeron dual core,0,4,0,windows,0,15.6,1.8,720,none,asus,1000,5.0,intel uhd 600
+218,72998,2,0,amd,ryzen 7 octa core,1,16,0,windows,0,14.0,1.38,1080,amd,lenovo,1000,4.5,amd radeon
+219,59999,5,0,intel,core i5,1,8,0,windows,0,14.0,0.9746666666666668,1080,none,lenovo,512,5.0,intel iris xe
+220,74990,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.25,1080,nvidia,msi,512,2.0,nvidia geforce rtx 3050
+221,49990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,14.0,1.3,1080,amd,msi,256,4.5,amd radeon
+222,39999,2,0,intel,core i3,1,8,0,windows,0,15.6,1.69,1080,none,hp,256,4.5,intel uhd
+223,114990,1,6144,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.57,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3060
+224,85990,1,4096,intel,core i5,1,16,1,windows,0,15.6,2.65,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050 ti
+225,99990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.65,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050 ti
+226,94990,1,4096,intel,core i7,1,16,0,windows,0,15.6,2.25,1080,nvidia,msi,512,2.0,nvidia geforce rtx 3050 ti
+227,99990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.4,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050 ti
+228,69990,2,0,amd,ryzen 7 octa core,1,8,0,windows,0,15.6,1.6,1080,amd,msi,512,4.5,amd radeon
+229,42490,2,0,intel,core i3,1,8,0,windows,0,15.6,1.4946421471172964,1080,none,hp,512,4.5,intel hd
+230,54990,2,0,intel,core i5,1,8,1,windows,0,15.6,1.69,1080,none,hp,512,4.5,iris xe
+231,57990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.4946421471172964,1080,none,hp,512,4.5,intel iris
+232,49990,4,0,intel,core i5,0,8,1,windows,0,15.6,1.65,1080,none,acer,1000,4.5,iris xe
+233,35990,5,0,amd,ryzen 3 dual core,1,8,0,windows,0,15.6,1.9,1080,amd,acer,512,5.0,amd radeon
+234,42490,5,0,intel,core i3,1,8,1,windows,0,15.6,1.69,1080,none,hp,512,5.0,intel uhd
+235,33999,4,0,amd,ryzen 3 dual core,1,4,1,windows,0,15.6,1.9,1080,none,acer,512,4.5,amd radeon
+236,42990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel uhd
+237,87990,2,0,intel,core i5,1,16,0,windows,1,13.3,1.3,1080,none,asus,512,4.5,iris xe
+238,38990,5,0,intel,core i3,0,8,0,windows,0,15.6,0.9746666666666668,1080,none,lenovo,1000,5.0,intel uhd
+239,91900,2,0,amd,ryzen 5 hexa core,1,16,0,windows,1,14.0,1.4,1440,amd,asus,512,4.5,amd radeon
+240,42990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel uhd
+241,42990,3,0,intel,pentium quad core,0,4,0,windows,1,13.3,0.78,1080,none,asus,128,5.0,intel uhd
+242,54990,3,0,intel,pentium quad core,1,8,0,windows,1,13.3,0.78,1080,none,asus,256,5.0,intel uhd
+243,104990,2,0,intel,core i7,1,16,0,windows,1,13.3,1.3,1080,none,asus,512,4.5,iris xe
+244,134990,2,2048,intel,core i7,1,16,0,windows,1,14.0,1.62,1080,nvidia,asus,1000,4.5,nvidia geforce mx 450
+245,99990,2,0,intel,core i5,1,8,0,windows,1,14.0,1.62,1080,none,asus,512,4.5,intel iris xe
+246,42990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel uhd
+247,87990,2,0,intel,core i5,1,16,0,windows,1,13.3,1.3,1080,none,asus,512,4.5,iris xe
+248,42990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel uhd
+249,29990,2,0,intel,pentium silver,1,4,0,windows,0,14.0,1.5,1080,none,asus,256,4.5,intel uhd 600
+250,114990,2,2048,intel,core i5,1,16,0,windows,1,14.0,1.62,1080,nvidia,asus,512,4.5,nvidia geforce mx 450
+251,99990,2,0,intel,core i5,1,8,0,windows,1,14.0,1.62,1080,none,asus,512,4.5,intel iris xe
+252,71990,2,2048,intel,core i5,1,16,1,windows,0,15.6,1.8,1080,nvidia,dell,512,4.5,nvidia geforce mx 350
+253,68990,5,4096,intel,core i5,1,16,0,windows,0,15.6,0.9746666666666668,1080,nvidia,dell,512,5.0,nvidia geforce gtx 1650
+254,72032,5,0,intel,core i5,1,16,0,windows,0,14.0,0.9746666666666668,1080,none,lenovo,512,5.0,intel hd
+255,47990,5,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,0.9746666666666668,1080,amd,hp,512,5.0,amd radeon
+256,47990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.69,1080,amd,hp,512,4.5,amd radeon
+257,41990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.69,1080,none,hp,512,4.5,intel uhd
+258,55999,5,0,intel,core i5,1,8,0,windows,0,15.6,0.9746666666666668,1080,none,lenovo,512,5.0,intel hd
+259,79990,2,4096,amd,ryzen 7 octa core,1,16,1,windows,0,14.0,1.6,1080,nvidia,asus,512,4.5,nvidia geforce gtx 1650
+260,79990,1,0,amd,ryzen 7 octa core,1,16,1,windows,0,14.0,1.6,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+261,65990,1,0,intel,core i5,1,16,0,windows,0,14.0,1.4,1440,none,asus,512,2.0,intel iris xe
+262,40990,7,0,intel,core i3,1,8,0,windows,0,15.6,1.8,720,none,asus,1256,6.0,intel hd
+263,99990,2,4096,amd,ryzen 7 octa core,1,16,0,windows,0,14.0,1.39,1080,nvidia,acer,1000,4.5,nvidia geforce rtx 3050 ti
+264,74990,2,0,intel,core i5,1,8,0,windows,1,14.0,1.05,1080,none,acer,512,4.5,intel iris xe
+265,33990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.7,1080,none,lenovo,1000,4.5,intel uhd
+266,85990,2,2048,intel,core i5,1,8,0,windows,0,15.6,1.4946421471172964,1080,nvidia,dell,512,4.5,nvidia geforce mx 330
+267,139990,1,6144,intel,core i9,1,16,1,windows,0,15.6,2.3,1080,nvidia,acer,1000,2.0,nvidia geforce rtx 3060
+268,169990,1,8192,intel,core i9,1,32,1,windows,0,15.6,2.3,1080,nvidia,acer,1000,2.0,nvidia geforce rtx 3070
+269,35990,5,0,intel,pentium quad core,1,4,1,windows,0,15.6,1.83,1080,none,dell,256,5.0,intel hd
+270,34490,5,0,intel,core i3,1,4,0,windows,0,14.0,0.9746666666666668,1080,none,lenovo,256,5.0,intel hd
+271,50999,5,0,intel,core i3,1,16,0,windows,0,15.6,1.83,1080,none,dell,1256,5.0,intel hd
+272,37899,5,0,intel,core i3,1,8,0,windows,0,15.6,0.9746666666666668,1440,none,asus,256,5.0,intel hd
+273,79990,1,4096,amd,ryzen 7 octa core,1,16,1,windows,0,17.3,2.6,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050
+274,56900,2,0,intel,core i5,1,8,1,windows,0,15.6,1.69,1080,none,hp,512,4.5,iris xe
+275,31390,2,0,intel,celeron dual core,1,8,0,windows,0,14.0,1.46,720,none,hp,256,4.5,intel uhd
+276,39990,2,0,amd,ryzen 3 quad core,1,8,1,windows,0,14.0,1.46,1080,amd,hp,512,4.5,amd radeon
+277,55490,2,2048,intel,core i5,1,8,1,windows,0,14.0,1.59,1080,nvidia,dell,512,4.5,nvidia geforce mx 330
+278,44490,2,0,amd,ryzen 5 quad core,1,8,1,windows,0,15.6,1.8,1080,amd,dell,256,4.5,amd radeon
+279,70990,2,0,intel,core i5,1,16,1,windows,0,14.0,1.46,1080,none,dell,512,4.5,intel iris xe
+280,140990,1,6144,intel,core i7,1,16,0,windows,0,15.6,2.25,1440,nvidia,msi,1000,2.0,nvidia geforce rtx 3060
+281,79990,2,0,intel,core i5,1,8,0,windows,0,13.3,1.3,1080,none,asus,512,4.5,iris xe
+282,44090,2,0,intel,core i3,1,4,1,windows,0,14.0,1.59,1080,none,dell,1256,4.5,intel uhd
+283,279990,1,8192,intel,core i7,1,32,0,windows,0,15.6,2.1,1440,nvidia,msi,1000,2.0,nvidia geforce rtx 3070 ti
+284,60490,2,2048,intel,core i5,1,16,1,windows,0,14.0,1.59,1080,nvidia,dell,512,4.5,nvidia geforce mx 330
+285,59890,2,0,intel,core i5,1,8,1,windows,0,15.6,1.8,1080,none,dell,1256,4.5,intel uhd
+286,37990,2,0,intel,core i3,1,8,1,windows,0,14.96,1.8,1080,none,dell,256,4.5,intel uhd
+287,38990,2,0,intel,core i3,1,8,1,windows,0,14.96,1.59,1080,none,dell,256,4.5,intel uhd
+288,129990,1,10240,amd,ryzen 9 octa core,1,16,0,windows,0,15.6,1.9,1080,amd,msi,1000,2.0,amd radeon rx 6700m
+289,51990,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.76,1080,amd,acer,512,4.5,amd radeon
+290,40590,2,0,amd,ryzen 3 dual core,1,8,1,windows,0,15.6,1.8,1080,amd,dell,256,4.5,amd radeon
+291,37999,5,0,intel,core i3,0,8,0,windows,0,15.6,0.9746666666666668,1080,none,lenovo,1000,5.0,intel hd
+292,38990,2,0,amd,ryzen 3 quad core,1,8,1,windows,0,15.6,1.69,1080,amd,hp,512,4.5,amd radeon
+293,36990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.7,1080,none,lenovo,512,4.5,intel uhd
+294,31990,2,0,intel,core i3,1,4,1,windows,0,14.0,1.6,1080,none,lenovo,256,4.5,intel uhd
+295,89998,5,512,intel,core i5,1,8,0,windows,0,15.6,0.9746666666666668,1080,none,lenovo,512,5.0,intel hd
+296,47990,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,14.0,1.46,1080,amd,hp,512,4.5,amd radeon
+297,130500,1,4096,amd,ryzen 9 octa core,1,16,1,windows,0,16.0,1.95,2160,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+298,48990,5,0,intel,core i3,1,8,1,windows,0,15.6,1.83,1080,none,dell,1256,5.0,intel hd
+299,46990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,4.5,intel uhd
+300,76990,2,2048,intel,core i7,1,8,0,windows,0,14.0,1.3,1080,nvidia,msi,512,4.5,nvidia geforce mx 450
+301,53990,3,0,intel,core i3,1,8,0,windows,1,14.0,1.52,1080,none,hp,256,5.0,intel uhd
+302,52990,3,0,intel,core i3,1,8,0,windows,1,14.0,1.5,1080,none,asus,512,5.0,intel uhd
+303,63990,3,0,intel,core i5,1,8,0,windows,1,14.0,1.5,1080,none,asus,512,5.0,intel iris xe
+304,49990,3,0,intel,core i3,1,8,0,windows,1,14.0,1.5,1080,none,asus,256,5.0,intel uhd
+305,44190,5,0,amd,ryzen 3 dual core,1,8,0,windows,0,14.0,0.9746666666666668,720,amd,hp,512,5.0,amd radeon
+306,36490,2,0,intel,pentium quad core,1,8,0,windows,0,14.1,1.4946421471172964,1080,none,asus,256,4.5,intel uhd
+307,33990,2,0,intel,pentium quad core,1,8,0,windows,0,14.0,1.3,1080,none,asus,256,4.5,intel uhd
+308,38000,5,0,intel,core i3,0,4,0,windows,0,15.6,1.8,720,none,asus,1000,5.0,intel hd
+309,74590,5,4096,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.4,1080,nvidia,lenovo,512,5.0,nvidia geforce gtx 1650
+310,36999,4,0,intel,core i3,0,4,0,windows,0,15.6,1.6219999999999999,1080,none,acer,1000,4.5,intel hd
+311,79620,1,4096,intel,ryzen 7 hexa core,1,16,0,windows,0,16.0,1.41,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+312,119599,7,0,intel,core i7,1,8,0,windows,0,14.0,0.8,720,none,hp,512,6.0,intel hd
+313,79978,2,0,amd,ryzen 5 hexa core,1,16,1,windows,1,13.3,1.31,1080,none,lenovo,1000,4.5,amd radeon
+314,68498,2,0,intel,core i5,1,16,0,windows,0,15.6,1.66,1080,none,lenovo,512,4.5,intel iris xe
+315,36599,2,0,intel,core i3,1,8,1,windows,0,15.6,1.65,1080,none,lenovo,512,4.5,intel hd
+316,85999,5,0,intel,core i7,1,16,0,windows,0,14.22,0.9746666666666668,1080,none,lenovo,512,5.0,intel hd
+317,40490,5,0,intel,core i3,1,8,0,windows,0,14.0,0.9746666666666668,1080,none,lenovo,512,5.0,intel hd
+318,133990,1,6144,intel,core i7,1,16,1,windows,0,16.1,2.32,1080,nvidia,hp,1000,2.0,nvidia geforce rtx 3060
+319,41690,5,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,512,5.0,intel uhd
+320,41490,5,0,intel,core i3,1,8,0,windows,0,15.0,0.9746666666666668,1080,none,lenovo,256,5.0,intel uhd
+321,59990,5,0,intel,core i5,1,8,0,windows,0,15.6,0.9746666666666668,1080,none,dell,1256,5.0,intel hd
+322,76990,2,0,intel,core i5,1,8,0,windows,0,14.0,0.99,1080,none,lg,256,4.5,intel iris xe
+323,76990,2,0,intel,core i5,1,8,0,windows,0,14.0,0.99,1080,none,lg,256,4.5,intel iris xe
+324,39988,2,0,intel,core i3,1,8,1,windows,0,15.6,1.65,1080,none,lenovo,256,4.5,intel hd
+325,86990,2,0,intel,core i5,1,8,0,windows,0,16.0,1.19,1440,none,lg,512,4.5,intel iris xe
+326,42990,5,0,amd,ryzen 5 quad core,1,8,1,windows,0,15.6,1.9,1080,amd,acer,512,5.0,amd radeon
+327,97990,1,4096,amd,ryzen 9 octa core,1,16,1,windows,0,15.6,2.1,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050 ti
+328,34999,2,0,intel,core i3,1,4,1,windows,0,15.6,1.7,1080,none,acer,256,4.5,intel uhd
+329,135990,1,6144,amd,ryzen 9 octa core,1,16,0,windows,0,15.6,2.3,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3060
+330,27990,5,0,intel,pentium quad core,0,4,0,windows,0,15.6,1.9,1080,none,asus,1000,5.0,intel uhd
+331,57990,2,0,intel,core i5,1,8,1,windows,0,15.6,1.8,1080,none,acer,512,4.5,intel iris xe
+332,39990,2,0,intel,core i3,1,8,0,windows,0,14.1,1.6,1080,none,asus,512,4.5,intel uhd
+333,57710,5,0,intel,core i5,1,16,0,windows,1,17.3,2.3,1080,none,asus,512,5.0,intel iris xe
+334,131990,1,6144,amd,ryzen 9 octa core,1,16,0,windows,0,14.0,2.0686486486486486,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3060
+335,43990,5,0,intel,core i3,0,8,0,windows,0,15.6,0.9746666666666668,1080,none,hp,1000,5.0,intel hd
+336,46990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.55,1080,none,asus,256,4.5,intel uhd
+337,43490,2,0,amd,ryzen 3 dual core,1,8,1,windows,0,15.6,1.8,1080,amd,dell,512,4.5,amd radeon
+338,45490,2,0,intel,core i3,1,8,1,windows,0,14.96,1.8,1080,none,dell,512,4.5,intel uhd
+339,48990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.8,1080,none,dell,1256,4.5,intel uhd
+340,58590,2,0,intel,core i5,1,8,1,windows,0,14.0,1.59,1080,none,dell,1256,4.5,intel iris xe
+341,70490,3,0,amd,ryzen 5 hexa core,1,8,1,windows,1,14.0,1.56,1080,amd,dell,512,5.0,amd radeon
+342,40990,2,0,intel,core i3,1,8,1,windows,0,14.0,1.58,1080,none,dell,512,4.5,intel hd
+343,39490,2,0,intel,core i3,0,8,1,windows,0,15.6,1.8,1080,none,dell,1000,4.5,intel uhd
+344,59490,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,14.0,1.5,1080,amd,dell,512,4.5,amd radeon
+345,33990,2,0,intel,core i3,0,8,1,windows,0,14.96,1.8,1080,none,dell,1000,4.5,intel uhd
+346,38990,2,0,amd,ryzen 3 dual core,1,8,1,windows,0,14.0,1.59,1080,amd,dell,512,4.5,amd radeon
+347,66490,2,2048,intel,core i5,1,8,1,windows,0,15.6,1.8,1080,none,dell,1256,4.5,intel uhd
+348,37390,2,0,amd,ryzen 3 dual core,0,8,1,windows,0,15.6,1.8,1080,amd,dell,1000,4.5,amd radeon
+349,65990,2,2048,intel,core i5,1,8,1,windows,0,15.6,1.8,1080,none,dell,512,4.5,intel uhd
+350,34990,2,0,amd,ryzen 3 dual core,1,8,1,windows,0,14.96,1.8,1080,amd,dell,256,4.5,amd radeon
+351,44490,2,0,intel,core i3,1,8,1,windows,0,15.6,1.8,1080,none,dell,1256,4.5,intel uhd
+352,74990,3,0,intel,core i5,1,8,1,windows,1,14.0,1.5,1080,none,dell,512,5.0,iris xe
+353,74690,2,2048,intel,core i5,1,16,1,windows,0,15.6,1.64,1080,nvidia,dell,512,4.5,nvidia geforce mx 450
+354,39980,5,0,amd,ryzen 5 octa core,0,8,0,windows,0,15.6,0.9746666666666668,720,none,hp,1000,5.0,amd radeon
+355,48990,5,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,0.9746666666666668,1080,amd,lenovo,512,5.0,amd radeon
+356,30999,5,0,intel,core i3,0,8,1,windows,0,14.1,1.6,720,none,asus,1000,5.0,intel uhd
+357,39999,2,0,intel,core i3,1,4,1,windows,0,15.6,1.65,1080,none,lenovo,256,4.5,intel hd
+358,54990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,4.5,intel uhd
+359,41990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.75,720,none,hp,512,4.5,intel uhd
+360,55990,3,0,intel,core i3,1,8,0,windows,0,14.0,1.52,1080,none,hp,512,5.0,intel uhd
+361,53990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.75,1080,none,hp,512,4.5,intel iris xe
+362,41990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.65,1080,none,lenovo,512,4.5,intel uhd
+363,41990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.75,720,none,hp,512,4.5,intel uhd
+364,111999,2,0,intel,core i5,1,16,0,windows,1,13.5,1.34,1080,none,hp,512,4.5,intel iris xe
+365,47490,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.65,1080,amd,lenovo,512,4.5,amd radeon
+366,39990,2,0,intel,core i3,1,8,1,windows,0,14.0,1.5,1080,none,lenovo,256,4.5,intel uhd
+367,84990,2,0,intel,core i7,1,16,0,windows,0,14.0,1.29,1080,none,msi,512,4.5,intel iris xe
+368,37990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,4.5,intel uhd
+369,61490,2,0,intel,core i5,1,8,0,windows,0,14.0,1.4,1080,none,dell,512,4.5,intel uhd
+370,78490,3,2048,intel,core i5,1,8,1,windows,1,14.0,1.5,1080,nvidia,dell,512,5.0,nvidia geforce mx 350
+371,61490,2,0,intel,core i5,1,8,1,windows,0,15.6,1.8,1080,none,dell,512,4.5,intel uhd
+372,84990,3,0,amd,ryzen 7 octa core,1,16,1,windows,1,14.0,1.56,1080,amd,dell,512,5.0,amd radeon
+373,39490,2,0,amd,ryzen 3 dual core,0,8,1,windows,0,14.96,1.8,1080,amd,dell,1000,4.5,amd radeon
+374,47990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.8,1080,none,dell,512,4.5,intel uhd
+375,58000,2,0,amd,ryzen 5 quad core,1,8,1,windows,0,15.6,1.8,1080,amd,dell,1256,4.5,amd radeon vega 
+376,60490,3,0,intel,core i3,1,8,1,windows,1,14.0,1.5,1080,none,dell,512,5.0,intel uhd
+377,61970,2,0,intel,core i5,1,8,1,windows,0,15.6,1.8,1080,none,dell,1256,4.5,intel uhd
+378,39390,2,0,amd,ryzen 3 dual core,1,8,0,windows,0,15.6,1.8,1080,amd,dell,256,4.5,amd radeon
+379,71990,3,0,intel,core i5,1,8,1,windows,1,14.0,1.5,1080,none,dell,512,5.0,iris xe
+380,36000,2,0,intel,pentium quad core,1,4,1,windows,0,15.6,1.8,1080,none,dell,256,4.5,intel uhd
+381,35999,2,0,intel,core i3,1,4,1,windows,0,14.0,1.59,1080,none,dell,1256,4.5,intel uhd
+382,55990,2,0,intel,core i5,1,8,1,windows,0,15.6,1.8,1080,none,dell,256,4.5,intel uhd
+383,47990,3,0,intel,core i3,1,8,1,windows,1,14.0,1.5,1080,none,dell,256,5.0,intel uhd
+384,89890,3,0,intel,core i5,1,16,1,windows,1,14.0,1.5,1080,nvidia,dell,512,5.0,nvidia geforce mx 350
+385,34990,2,0,intel,core i3,1,4,1,windows,0,14.0,1.58,1080,none,dell,1256,4.5,intel hd
+386,44490,2,0,amd,ryzen 5 quad core,1,8,1,windows,0,14.0,1.59,1080,amd,dell,256,4.5,amd radeon
+387,65000,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.64,1080,amd,dell,512,4.5,amd radeon
+388,41990,2,0,intel,core i3,1,8,1,windows,0,14.96,1.8,1080,none,dell,256,4.5,intel uhd
+389,39490,2,0,amd,ryzen 3 dual core,1,8,1,windows,0,15.6,1.8,1080,amd,dell,256,4.5,amd radeon
+390,43990,2,0,amd,ryzen 3 dual core,1,8,1,windows,0,14.96,1.8,1080,amd,dell,1256,4.5,amd radeon
+391,69990,2,0,intel,core i5,1,16,1,windows,0,15.6,1.64,1080,none,dell,512,4.5,iris xe
+392,48990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.8,1080,none,dell,1256,4.5,intel uhd
+393,49990,2,0,amd,ryzen 5 quad core,1,8,1,windows,0,15.6,1.8,1080,amd,dell,512,4.5,amd radeon
+394,56850,2,0,intel,core i5,1,16,0,windows,0,17.3,2.3,1080,none,asus,512,4.5,intel iris xe
+395,73519,5,2048,intel,core i5,1,16,0,windows,0,15.6,0.9746666666666668,1080,nvidia,dell,512,5.0,nvidia geforce
+396,50940,5,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,512,5.0,intel uhd
+397,75990,5,4096,intel,core i5,1,8,1,windows,0,15.6,1.8,1080,nvidia,dell,512,5.0,nvidia geforce gtx 1650 ti
+398,51990,5,0,amd,ryzen 5 quad core,1,8,0,windows,0,15.6,0.9746666666666668,1080,amd,dell,1256,5.0,amd radeon vega 8
+399,59990,5,0,intel,core i5,1,8,1,windows,0,15.6,1.85,1080,none,dell,1256,5.0,intel hd
+400,35990,2,0,intel,core i3,0,8,0,windows,0,14.0,1.47,720,none,hp,1000,4.5,intel uhd
+401,51990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,none,asus,1256,4.5,intel iris xe
+402,55990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel iris xe
+403,55990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel iris xe
+404,47990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,256,4.5,intel uhd
+405,55990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel iris xe
+406,58990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.8,1080,amd,asus,1256,4.5,amd radeon
+407,58990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.8,1080,amd,asus,1256,4.5,amd radeon
+408,42490,5,0,intel,core i3,0,8,0,windows,0,15.6,0.9746666666666668,1080,none,dell,1000,5.0,intel hd
+409,50990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,512,4.5,intel uhd
+410,69990,2,0,intel,core i5,1,16,0,windows,0,15.6,1.8,1080,none,asus,1256,4.5,intel iris xe
+411,37990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,256,4.5,intel uhd
+412,86648,5,0,intel,core i7,1,16,0,windows,1,14.0,0.9746666666666668,1080,none,lenovo,512,5.0,iris xe
+413,109000,3,0,amd,ryzen 7 quad core,1,16,0,windows,1,13.3,1.34171875,1080,amd,hp,512,5.0,amd radeon
+414,32890,5,0,intel,core i3,1,8,0,windows,0,14.0,1.6,720,none,asus,256,5.0,intel uhd
+415,34649,7,0,intel,core i3,0,4,0,dos,0,15.6,1.8,720,none,asus,1000,6.0,intel hd
+416,32489,2,0,intel,core i3,1,8,0,windows,0,14.0,1.8,720,none,asus,256,4.5,intel uhd
+417,34979,4,0,intel,core i3,1,8,1,windows,0,14.0,1.6,1080,none,asus,256,4.5,intel uhd
+418,89990,5,4096,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,1.65,1080,nvidia,asus,1000,5.0,nvidia geforce rtx 3050
+419,139990,1,6144,intel,core i9,1,16,1,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3060
+420,58990,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.98,1080,nvidia,hp,512,2.0,nvidia geforce gtx 1650
+421,50390,3,0,intel,core i3,1,8,0,chrome,1,14.0,1.49,1080,none,hp,256,5.0,intel uhd
+422,43990,5,0,amd,ryzen 3 dual core,0,8,0,windows,0,15.6,0.9746666666666668,1080,amd,dell,1000,5.0,amd radeon vega 8
+423,152999,3,0,intel,core i7,1,16,1,windows,1,13.5,1.34,1440,none,hp,1000,5.0,intel hd
+424,79790,2,0,amd,ryzen 7 octa core,1,16,1,windows,0,13.3,0.97,1080,amd,hp,1000,4.5,amd radeon
+425,64790,2,0,amd,ryzen 5 hexa core,1,16,0,windows,0,13.3,0.97,1080,none,hp,512,4.5,intel uhd
+426,79990,1,4096,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,1.98,1080,nvidia,hp,512,2.0,nvidia geforce rtx 3050
+427,56690,2,0,intel,core i5,1,8,0,windows,0,14.0,1.49,1080,none,hp,512,4.5,intel uhd
+428,87990,1,4096,intel,core i7,1,16,0,windows,0,15.6,2.23,1080,nvidia,hp,512,2.0,nvidia geforce rtx 3050
+429,60390,8,0,intel,core i5,1,8,1,chrome,0,14.0,1.49,1080,none,hp,256,8.0,intel iris xe
+430,171990,1,8192,intel,core i7,1,16,0,windows,0,16.1,2.32,1440,nvidia,hp,1000,2.0,nvidia geforce rtx 3070
+431,69990,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.98,1080,nvidia,hp,512,2.0,nvidia geforce rtx 3050
+432,58450,2,0,intel,core i5,1,8,1,windows,0,14.0,1.41,1080,none,hp,512,4.5,intel iris xe
+433,65970,2,0,intel,core i5,1,16,0,windows,0,14.0,1.41,1080,none,hp,512,4.5,intel iris xe
+434,97468,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,14.96,2.5,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050
+435,61990,2,0,intel,core i5,1,8,1,windows,0,15.6,1.75,1080,none,hp,512,4.5,intel iris xe
+436,109990,9,4096,amd,ryzen 9 octa core,1,16,1,windows,0,14.0,1.45,1440,nvidia,asus,1000,4.0,nvidia geforce rtx 3050
+437,82500,2,0,intel,core i7,1,8,0,windows,0,15.6,1.4946421471172964,1080,none,asus,1256,4.5,intel hd
+438,34990,5,0,intel,core i3,0,4,0,windows,0,15.6,1.9,1080,none,asus,1000,5.0,intel uhd
+439,59990,5,0,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,none,asus,1256,5.0,intel hd
+440,179990,1,6144,intel,core i9,1,16,0,windows,0,16.0,2.2,1440,nvidia,msi,1000,2.0,nvidia geforce rtx 3060
+441,37490,5,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,256,5.0,intel hd
+442,54999,5,2048,intel,core i5,1,8,1,windows,0,15.6,1.85,1080,none,lenovo,512,5.0,intel uhd
+443,42740,5,0,intel,core i3,1,8,0,windows,0,14.1,0.9746666666666668,1080,none,hp,512,5.0,intel hd
+444,57900,5,0,amd,ryzen 5 quad core,1,8,0,windows,0,15.6,0.9746666666666668,1080,amd,dell,1000,5.0,amd radeon vega 8
+445,50990,2,0,intel,core i7,1,16,0,windows,0,14.0,1.48,1080,none,infinix,512,4.5,intel iris plus
+446,38990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.46,1080,none,hp,256,4.5,intel uhd
+447,29990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.48,1080,none,infinix,256,4.5,intel uhd
+448,39990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.48,1080,none,infinix,512,4.5,intel uhd
+449,29990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.48,1080,none,infinix,256,4.5,intel uhd
+450,39990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.48,1080,none,infinix,512,4.5,intel uhd
+451,29990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.48,1080,none,infinix,256,4.5,intel uhd
+452,75990,5,0,amd,ryzen 5 octa core,1,16,0,windows,0,13.3,1.8,1080,amd,asus,512,5.0,amd radeon vega 8
+453,45980,5,0,intel,core i3,1,8,0,windows,0,15.6,0.9746666666666668,1080,none,lenovo,512,5.0,intel hd
+454,41490,2,0,intel,core i3,0,8,1,windows,0,15.6,1.77,1080,none,hp,1000,4.5,intel uhd
+455,48490,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,14.0,1.66,1080,amd,lenovo,512,4.5,amd radeon
+456,62990,2,0,intel,core i5,1,16,0,windows,0,17.3,2.3,1080,none,asus,1256,4.5,intel iris xe
+457,89990,9,4096,amd,ryzen 7 octa core,1,16,1,windows,0,14.0,1.4,1440,nvidia,asus,512,4.0,nvidia geforce rtx 3050
+458,38890,2,0,intel,core i3,1,8,1,windows,0,14.1,1.6,1080,none,asus,1256,4.5,intel uhd
+459,67990,2,0,amd,ryzen 7 octa core,1,16,0,windows,0,14.0,1.38,1080,amd,lenovo,512,4.5,amd radeon
+460,27990,5,0,intel,celeron dual core,1,4,0,windows,0,15.6,1.9,720,none,asus,256,5.0,intel uhd 600
+461,65990,2,0,intel,core i5,1,16,1,windows,0,14.0,1.41,1080,none,hp,512,4.5,intel iris xe
+462,18990,8,0,intel,celeron dual core,0,4,0,chrome,0,11.6,1.24,720,none,asus,64,8.0,intel uhd 600
+463,60990,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,2.25,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+464,38990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.65,1080,none,lenovo,256,4.5,intel uhd
+465,33990,2,0,intel,core i3,1,4,0,windows,0,14.0,1.6,1080,none,asus,256,4.5,intel uhd
+466,46990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.25,1080,none,avita,512,4.5,intel uhd
+467,42490,2,0,intel,core i3,1,8,1,windows,0,15.6,1.85,1080,none,dell,256,4.5,intel uhd
+468,44090,2,0,intel,core i3,1,4,1,windows,0,14.0,1.58,1080,none,dell,1256,4.5,intel uhd
+469,70090,2,0,intel,core i5,1,16,1,windows,0,14.0,1.5,1080,none,dell,512,4.5,intel iris xe
+470,48990,2,0,amd,ryzen 5 quad core,1,8,1,windows,0,14.0,1.58,1080,amd,dell,512,4.5,amd radeon vega 
+471,31990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.3,1080,none,msi,256,4.5,intel uhd
+472,35790,5,0,intel,core i3,0,8,1,windows,0,15.6,1.8,720,none,asus,1000,5.0,intel uhd
+473,46990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,4.5,intel uhd
+474,57990,2,0,intel,core i7,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,4.5,intel uhd
+475,74990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.29,1080,none,msi,512,4.5,intel iris xe
+476,84990,1,6144,intel,core i5,1,16,1,windows,0,15.6,2.0,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3060
+477,34990,2,0,intel,core i3,1,4,0,windows,0,15.6,1.8,1080,none,asus,512,4.5,intel uhd
+478,57990,1,0,intel,core i7,1,16,0,windows,0,15.6,1.8,1080,none,asus,512,2.0,intel iris plus
+479,38990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,512,4.5,intel uhd
+480,57990,1,0,intel,core i7,1,16,0,windows,0,15.6,1.8,1080,none,asus,512,2.0,intel iris plus
+481,38990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,512,4.5,intel uhd
+482,58990,5,0,intel,core i5,0,8,0,windows,0,15.0,0.9746666666666668,1080,none,dell,1000,5.0,intel hd
+483,75099,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,2.4,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+484,42990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.75,720,none,hp,512,4.5,intel uhd
+485,35990,5,0,intel,core i3,0,8,1,windows,0,15.6,1.8,720,none,asus,1000,5.0,intel uhd
+486,49500,5,0,intel,core i3,1,8,1,windows,0,15.6,0.9746666666666668,1080,none,dell,256,5.0,intel hd
+487,33990,2,0,amd,ryzen 3 dual core,1,8,1,windows,0,14.1,1.5,1080,none,asus,256,4.5,amd radeon
+488,139990,1,4096,amd,ryzen 9 octa core,1,16,0,windows,0,14.0,1.7,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3050ti
+489,39997,5,0,intel,core i3,0,8,0,windows,0,15.6,0.9746666666666668,1080,none,dell,1000,5.0,intel uhd
+490,59990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.2,1080,none,acer,512,4.5,intel iris xe
+491,59999,2,0,amd,ryzen 5 hexa core,1,16,1,windows,0,14.0,1.41,1080,amd,hp,512,4.5,amd radeon
+492,170000,7,2048,intel,core i7,1,16,0,windows,0,12.0,0.8,1080,nvidia,lenovo,512,6.0,nvidia geforce mx 330
+493,62990,2,0,intel,core i5,1,8,1,windows,0,15.6,1.75,1080,none,hp,512,4.5,intel iris xe
+494,55490,2,0,amd,ryzen 7 octa core,1,8,0,windows,0,14.0,1.46,1080,amd,hp,512,4.5,amd radeon
+495,81399,1,4096,amd,ryzen 7 octa core,1,8,0,windows,0,14.0,1.6,1440,nvidia,asus,1000,2.0,nvidia geforce gtx 1650
+496,137990,1,6144,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.4,1080,nvidia,lenovo,1000,2.0,nvidia geforce rtx 3060
+497,77990,3,0,amd,ryzen 7 octa core,1,16,0,windows,1,13.3,1.32,1080,amd,lenovo,512,5.0,amd radeon
+498,76990,1,4096,amd,ryzen 7 octa core,1,8,0,windows,0,14.0,1.6,1080,nvidia,asus,1000,2.0,nvidia geforce gtx 1650
+499,86990,1,4096,amd,ryzen 7 octa core,1,8,0,windows,0,14.0,1.6,1080,nvidia,asus,1000,2.0,nvidia geforce gtx 1650
+500,30699,2,0,intel,celeron dual core,1,4,0,windows,0,14.0,1.5,720,none,lenovo,256,4.5,intel uhd
+501,29999,5,0,intel,celeron dual core,0,4,0,dos,0,15.6,1.85,1080,none,lenovo,1000,5.0,intel uhd
+502,119990,1,8192,intel,core i7,1,16,0,windows,0,15.6,2.25,1440,nvidia,msi,1000,2.0,nvidia geforce rtx 3070
+503,40990,2,0,intel,core i3,0,8,1,windows,0,15.6,1.85,1080,none,dell,1000,4.5,intel uhd
+504,72990,1,4096,intel,core i5,1,16,0,windows,0,15.6,2.25,1080,nvidia,msi,512,2.0,nvidia geforce rtx 3050 ti
+505,74798,2,0,amd,ryzen 5 hexa core,1,16,1,windows,1,13.3,1.31,1080,none,lenovo,512,4.5,amd radeon
+506,43990,2,0,intel,core i3,1,4,1,windows,0,15.6,1.4946421471172964,1080,none,lenovo,256,4.5,intel uhd
+507,225990,2,0,apple,m1 pro,1,16,0,mac,0,14.2,1.6,1440,none,apple,1000,4.5,m1
+508,62990,1,4096,intel,core i5,0,8,0,windows,0,15.6,2.0686486486486486,1080,nvidia,lenovo,1000,2.0,nvidia geforce gtx 1650
+509,75990,1,4096,amd,ryzen 7 octa core,1,8,1,windows,0,15.6,2.1,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+510,80990,1,4096,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,2.4,1080,nvidia,acer,1256,2.0,nvidia geforce rtx 3050 ti
+511,128990,3,0,intel,core i7,1,16,1,windows,1,13.5,1.34,1080,none,hp,1000,5.0,intel hd
+512,59990,2,0,intel,core i3,1,8,0,windows,1,14.0,1.52,1080,none,hp,512,4.5,intel uhd
+513,59890,2,0,amd,ryzen 5 hexa core,1,16,0,windows,0,14.0,1.41,1080,amd,hp,512,4.5,amd radeon
+514,43900,5,0,intel,core i3,1,8,0,windows,0,15.6,1.85,720,none,lenovo,256,5.0,intel uhd
+515,74990,1,4096,amd,ryzen 7 octa core,1,8,0,windows,0,15.6,2.0686486486486486,720,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+516,37490,2,0,intel,core i3,1,4,0,windows,0,15.6,1.4946421471172964,1080,none,acer,256,4.5,intel uhd
+517,38700,5,0,intel,core i3,1,4,0,windows,0,12.0,0.9746666666666668,1080,none,lenovo,256,5.0,intel hd
+518,31990,5,0,amd,athlon dual core,1,4,0,windows,0,15.6,1.9,720,amd,acer,256,5.0,amd radeon
+519,40990,5,0,intel,core i3,1,4,0,windows,0,15.6,0.9746666666666668,1080,none,lenovo,256,5.0,intel hd
+520,42590,2,0,intel,core i3,1,8,1,windows,0,15.6,1.85,1080,none,dell,256,4.5,intel uhd
+521,42900,5,0,intel,core i3,0,8,0,windows,0,15.6,0.9746666666666668,1080,none,dell,1000,5.0,intel hd
+522,24990,8,0,intel,celeron dual core,0,4,0,chrome,0,14.0,1.4,1080,none,lenovo,64,8.0,intel uhd
+523,83990,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,2.4,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050
+524,138990,1,8192,amd,ryzen 9 octa core,1,16,0,windows,0,16.1,2.23,1440,amd,hp,1000,2.0,amd radeon rx 6600m
+525,56449,2,2048,intel,core i5,1,8,1,windows,0,15.6,1.4946421471172964,1080,nvidia,asus,1256,4.5,nvidia geforce mx 330
+526,69500,5,0,intel,core i5,1,16,0,windows,0,15.6,0.9746666666666668,1080,none,dell,512,5.0,intel hd
+527,134990,1,6144,intel,core i7,1,16,1,windows,0,15.6,2.4,1080,nvidia,dell,1000,2.0,nvidia geforce rtx 3060
+528,71000,2,2048,intel,core i5,1,8,1,windows,0,15.6,1.85,1080,nvidia,dell,1256,4.5,nvidia geforce mx 350
+529,45990,2,0,intel,core i5,1,8,1,windows,0,14.0,1.4,1080,none,nokia,512,4.5,intel iris xe
+530,49990,2,0,intel,core i5,1,16,1,windows,0,14.0,1.4,1080,none,nokia,512,4.5,intel iris xe
+531,41990,2,0,intel,core i3,1,8,1,windows,0,14.0,1.58,1080,none,dell,256,4.5,intel uhd
+532,82990,3,2048,intel,core i5,1,8,1,windows,1,14.0,1.5,1080,none,dell,512,5.0,nvidia geforce mx 350
+533,71090,2,0,intel,core i5,1,16,1,windows,0,14.0,1.46,1080,none,dell,512,4.5,intel iris xe
+534,73990,3,0,intel,core i5,1,8,1,windows,1,14.0,1.5,1080,none,dell,512,5.0,intel iris xe
+535,41390,2,0,intel,core i3,0,8,1,windows,0,14.96,1.85,1080,none,dell,1000,4.5,intel uhd
+536,83490,1,4096,amd,ryzen 5 hexa core,1,16,1,windows,0,15.6,2.4,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050
+537,46890,2,0,intel,core i3,1,8,1,windows,0,15.6,1.85,1080,none,dell,1256,4.5,intel uhd
+538,38499,2,0,amd,athlon dual core,1,4,1,windows,0,15.6,1.83,720,amd,dell,256,4.5,amd radeon
+539,105000,2,0,intel,core i5,1,8,0,windows,1,13.3,1.27,1080,none,hp,512,4.5,intel iris xe
+540,44490,2,0,intel,core i3,1,8,1,windows,0,15.6,1.85,1080,none,dell,1256,4.5,intel uhd
+541,42490,4,0,amd,ryzen 5 quad core,1,8,1,windows,0,15.6,1.83,1080,amd,dell,256,4.5,amd radeon vega
+542,39990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.4,720,none,nokia,512,4.5,intel uhd
+543,79190,2,4096,intel,core i5,1,16,0,windows,0,14.0,1.59,2160,nvidia,hp,512,4.5,nvidia geforce gtx
+544,61900,2,0,intel,core i5,1,8,1,windows,0,14.0,1.58,1080,none,dell,512,4.5,intel iris xe
+545,108990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.4,1080,nvidia,dell,512,2.0,nvidia geforce rtx 3050 ti
+546,49990,2,0,intel,core i5,1,8,1,windows,0,14.0,1.58,1080,none,dell,1256,4.5,intel iris xe
+547,80990,3,2048,intel,core i5,1,16,0,windows,1,14.0,1.5,1080,nvidia,dell,512,5.0,nvidia geforce mx 350
+548,49490,2,0,intel,core i3,1,8,1,windows,0,15.6,1.85,1080,none,dell,1256,4.5,intel uhd
+549,115990,3,0,intel,core i5,1,16,1,windows,1,13.5,1.34,1080,none,hp,512,5.0,intel hd
+550,44990,2,0,intel,core i5,0,8,0,windows,0,15.6,1.8,1080,none,asus,1000,4.5,intel uhd
+551,132990,6,4096,amd,ryzen 9 octa core,1,16,1,windows,1,13.4,1.3,1080,nvidia,asus,1000,4.0,nvidia geforce rtx 3050
+552,58990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.8,1080,amd,asus,1256,4.5,amd radeon
+553,46990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,256,4.5,intel uhd
+554,142990,6,4096,amd,ryzen 9 octa core,1,32,1,windows,1,13.4,1.3,1080,nvidia,asus,1000,4.0,nvidia geforce rtx 3050 ti
+555,117990,1,4096,amd,ryzen 9 octa core,1,16,0,windows,0,15.6,2.1,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050 ti
+556,154990,1,6144,intel,core i7,1,16,1,windows,0,16.0,1.9,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3060
+557,67990,2,0,intel,core i5,1,16,0,windows,0,15.6,1.8,1080,none,asus,1256,4.5,intel iris xe
+558,156990,6,4096,amd,ryzen 9 octa core,1,32,1,windows,1,13.4,1.3,2160,nvidia,asus,1000,4.0,nvidia geforce rtx 3050 ti
+559,129990,1,4096,intel,core i7,1,16,1,windows,0,16.0,1.9,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+560,75199,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,2.4,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+561,65990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.25,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+562,51990,2,0,intel,core i5,1,8,1,windows,0,15.6,1.65,1080,none,lenovo,512,4.5,intel iris xe
+563,157990,1,6144,intel,core i7,1,16,0,windows,0,16.0,2.0686486486486486,1440,nvidia,lenovo,1000,2.0,nvidia geforce rtx 3060
+564,29990,2,0,intel,celeron dual core,1,4,0,windows,0,14.0,1.5,720,none,lenovo,256,4.5,intel uhd
+565,61990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.4946421471172964,1080,none,lenovo,512,4.5,intel uhd
+566,75990,2,0,amd,ryzen 5 hexa core,1,16,0,windows,1,13.3,1.31,1080,amd,lenovo,512,4.5,amd radeon
+567,34990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.4946421471172964,1080,none,lenovo,256,4.5,intel uhd
+568,60990,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,2.3,1080,nvidia,lenovo,1256,2.0,nvidia geforce gtx 1650
+569,38998,5,0,intel,core i3,1,8,0,windows,0,15.6,1.85,720,none,lenovo,256,5.0,intel uhd
+570,96890,2,2048,intel,core i5,1,16,0,windows,0,15.6,1.4946421471172964,1080,nvidia,lenovo,512,4.5,nvidia geforce mx 450
+571,65490,1,4096,amd,ryzen 3 hexa core,1,8,0,windows,0,15.6,2.0686486486486486,1080,nvidia,hp,512,2.0,nvidia geforce gtx 1650
+572,53750,5,0,intel,core i5,1,8,1,windows,0,15.6,1.75,1080,none,asus,512,5.0,intel iris xe
+573,58990,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,14.0,1.41,1080,amd,hp,512,4.5,amd radeon
+574,75990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.23,1080,nvidia,hp,512,2.0,nvidia geforce rtx 3050
+575,84990,3,0,intel,core i7,1,16,0,windows,1,14.0,1.5,1080,none,lenovo,512,5.0,intel iris xe
+576,54990,2,0,intel,core i5,1,8,0,windows,0,13.0,1.26,1440,none,lenovo,512,4.5,intel iris xe
+577,60990,2,0,intel,core i5,1,16,0,windows,0,13.0,1.26,1440,none,lenovo,512,4.5,intel iris xe
+578,38990,2,0,intel,core i3,1,4,0,windows,0,15.0,1.7,1080,none,lenovo,256,4.5,intel uhd
+579,56990,2,0,amd,ryzen 5 hexa core,1,8,0,dos,0,14.0,1.69,1080,amd,lenovo,512,4.5,amd radeon
+580,58990,2,0,intel,core i5,1,8,0,windows,0,13.3,2.023,1440,none,lenovo,1000,4.5,intel iris xe
+581,85990,2,0,intel,core i7,1,16,0,windows,0,13.0,1.26,1440,none,lenovo,1000,4.5,intel iris xe
+582,97899,1,4096,intel,core i7,1,16,0,windows,0,15.6,2.23,1080,nvidia,hp,512,2.0,nvidia geforce rtx 3050
+583,54990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.6,1080,none,lenovo,512,4.5,intel iris xe
+584,43490,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,redmibook,512,4.5,intel uhd
+585,41990,5,0,intel,core i3,1,8,0,windows,0,15.6,0.9746666666666668,1080,none,lenovo,256,5.0,intel uhd
+586,34490,5,0,amd,ryzen 3 dual core,0,4,0,windows,0,15.6,1.85,720,amd,lenovo,1000,5.0,amd radeon
+587,31990,5,0,amd,dual core,1,4,0,windows,0,15.6,1.9,720,amd,acer,256,5.0,amd radeon
+588,33990,2,0,amd,ryzen 3 dual core,1,8,0,windows,0,15.6,1.69,1080,amd,hp,256,4.5,amd radeon
+589,80390,2,2048,amd,ryzen 7 octa core,1,16,0,windows,0,14.0,1.41,1080,nvidia,hp,512,4.5,nvidia geforce mx 450
+590,64990,2,2048,amd,ryzen 5 hexa core,1,16,0,windows,0,14.0,1.41,1080,nvidia,hp,512,4.5,nvidia geforce mx 450
+591,92940,2,2048,intel,core i7,1,16,0,windows,0,13.3,1.3,1080,nvidia,hp,1000,4.5,nvidia geforce mx 450
+592,117990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.4,1080,nvidia,lenovo,512,2.0,nvidia geforce rtx 3050
+593,65990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.25,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+594,69990,2,2048,intel,core i5,1,16,0,windows,0,14.0,1.41,1080,nvidia,lenovo,512,4.5,nvidia geforce mx 450
+595,54490,2,2048,intel,core i5,1,8,0,windows,0,15.6,1.7,1080,nvidia,lenovo,512,4.5,nvidia geforce mx 330
+596,28490,8,0,intel,celeron dual core,0,4,0,chrome,1,11.6,1.25,720,none,lenovo,128,8.0,intel uhd
+597,45990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.7,1080,none,lenovo,512,4.5,intel uhd
+598,95990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.3,1440,nvidia,acer,1512,2.0,nvidia geforce rtx 3050 ti
+599,34990,2,0,intel,core i3,1,4,0,windows,0,15.6,1.8,1080,none,asus,256,4.5,intel uhd
+600,95990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.3,1440,nvidia,acer,1512,2.0,nvidia geforce rtx 3050 ti
+601,34990,2,0,intel,core i3,1,4,0,windows,0,15.6,1.8,1080,none,asus,256,4.5,intel uhd
+602,72990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.17,1080,none,asus,512,4.5,intel iris xe
+603,50990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,none,asus,1256,4.5,intel iris xe
+604,35990,2,0,amd,ryzen 3 dual core,1,8,0,windows,0,15.6,1.8,1080,amd,asus,256,4.5,amd radeon
+605,44990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.55,1080,none,acer,1000,4.5,intel iris xe
+606,44490,4,0,amd,ryzen 5 quad core,1,8,0,windows,0,15.6,1.9,1080,amd,acer,512,4.5,amd radeon vega 8
+607,52990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.65,1080,none,acer,512,4.5,intel iris xe
+608,53290,2,0,intel,core i5,1,8,0,windows,0,15.6,1.65,1080,none,acer,1256,4.5,intel iris xe
+609,54990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.65,1080,none,acer,1256,4.5,intel iris xe
+610,91990,1,4096,amd,ryzen 7 octa core,1,8,0,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+611,76990,1,4096,amd,ryzen 7 octa core,1,8,1,windows,0,15.6,2.3,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+612,62490,2,0,intel,core i5,1,16,1,windows,0,14.0,1.68,1080,none,acer,1256,4.5,intel iris xe
+613,69990,3,0,intel,core i3,1,8,1,windows,1,14.0,1.56,1080,none,dell,256,5.0,intel uhd
+614,35000,2,0,intel,core i3,0,4,0,windows,0,14.0,1.6,720,none,asus,1000,4.5,intel hd 520
+615,34990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.7,1080,none,lenovo,256,4.5,intel uhd
+616,15990,8,0,intel,celeron dual core,0,4,0,chrome,0,11.6,1.12,720,none,lenovo,64,8.0,intel uhd
+617,129990,1,4096,amd,ryzen 9 octa core,1,16,1,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050 ti
+618,45990,4,0,intel,core i5,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,4.5,intel uhd
+619,46490,4,0,intel,core i3,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,4.5,intel uhd
+620,59990,4,0,intel,core i7,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,4.5,intel iris xe
+621,80590,4,2048,intel,core i7,1,8,0,windows,0,14.0,1.3,1080,nvidia,msi,512,4.5,nvidia geforce mx 450
+622,46990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,4.5,intel uhd
+623,75990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+624,71990,1,4096,intel,core i5,1,8,0,windows,0,17.3,2.6,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050
+625,103990,1,4096,intel,core i7,1,16,0,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+626,62990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.14,1080,nvidia,asus,1256,2.0,nvidia geforce gtx 1650
+627,57990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.14,1080,nvidia,asus,1256,2.0,nvidia geforce gtx 1650
+628,63990,1,4096,intel,core i7,1,8,0,windows,0,15.6,2.14,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+629,74990,1,4096,amd,ryzen 7 octa core,1,8,1,windows,0,14.0,1.6,1440,nvidia,asus,1000,2.0,nvidia geforce gtx 1650
+630,68990,1,4096,intel,core i7,1,16,0,windows,0,15.6,2.14,1080,nvidia,asus,1256,2.0,nvidia geforce gtx 1650
+631,94990,1,4096,intel,core i7,1,16,0,windows,0,17.3,2.6,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050
+632,80990,1,4096,amd,ryzen 7 octa core,1,16,0,windows,0,17.3,2.6,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050
+633,139990,1,6144,amd,ryzen 9 octa core,1,16,1,windows,0,15.6,1.9,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3060
+634,67990,1,4096,intel,core i7,1,16,0,windows,0,15.6,2.14,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+635,48750,5,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.6,1080,amd,asus,1024,5.0,amd radeon vega 8
+636,48500,2,0,intel,core i3,1,8,1,windows,0,15.6,1.65,1080,none,lenovo,512,4.5,intel uhd
+637,82990,2,0,intel,core i5,1,16,0,windows,1,14.0,1.36,1080,none,lenovo,512,4.5,intel iris xe
+638,69990,2,0,intel,core i5,1,16,0,windows,0,14.0,1.38,1080,none,lenovo,512,4.5,intel iris xe
+639,41500,5,0,intel,core i3,0,8,0,windows,0,15.6,1.6,1080,none,asus,1000,5.0,intel uhd
+640,47650,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.8,1080,amd,asus,512,4.5,amd radeon
+641,119990,1,4096,amd,ryzen 9 octa core,1,16,1,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050 ti
+642,69990,1,4096,intel,core i5,1,8,0,windows,0,15.6,1.86,1080,nvidia,msi,512,2.0,nvidia geforce rtx 3050
+643,82990,1,6144,intel,core i7,1,16,0,windows,0,15.6,1.86,1080,nvidia,msi,1000,2.0,nvidia geforce rtx 3060
+644,55990,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.75,1080,amd,hp,512,4.5,amd radeon
+645,68500,2,0,amd,ryzen 5 hexa core,1,16,1,windows,0,15.6,1.75,1080,amd,hp,512,4.5,amd radeon
+646,84990,1,4096,intel,core i7,1,16,0,windows,0,15.6,2.25,1080,nvidia,msi,1000,2.0,nvidia geforce rtx 3050
+647,79990,1,4096,intel,core i7,1,16,0,windows,0,15.6,1.86,1080,nvidia,msi,512,2.0,nvidia geforce rtx 3050
+648,99190,2,4096,intel,core i5,1,16,0,windows,0,14.0,1.59,1080,nvidia,hp,1000,4.5,nvidia geforce gtx
+649,94990,1,8192,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,2.35,1080,amd,msi,1000,2.0,amd radeon rx6600m
+650,30990,2,0,intel,core i3,0,4,0,windows,0,15.6,1.8,720,none,asus,1000,4.5,intel uhd
+651,32890,2,0,intel,core i3,0,8,1,windows,0,14.0,1.4946421471172964,1080,none,asus,1000,4.5,intel hd
+652,112990,1,6144,intel,core i7,1,16,1,windows,0,15.6,2.3,1440,nvidia,acer,1512,2.0,nvidia geforce rtx 3060
+653,83000,1,4096,intel,core i5,1,8,0,windows,0,17.3,2.6,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+654,90940,2,0,amd,ryzen 7 octa core,1,16,0,windows,1,13.3,1.32,1080,amd,hp,1000,4.5,amd radeon
+655,37990,5,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,256,5.0,intel uhd
+656,52990,5,0,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,none,asus,512,5.0,intel iris xe
+657,119990,2,0,intel,core i7,1,16,0,windows,1,14.0,1.57,1080,none,asus,1000,4.5,intel iris xe
+658,52990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.66,1080,amd,lenovo,512,4.5,amd radeon
+659,65990,1,4096,intel,core i5,0,8,1,windows,0,15.6,2.2,1080,nvidia,lenovo,1000,2.0,nvidia geforce gtx 1650
+660,88990,1,4096,intel,core i7,1,8,0,windows,0,15.6,2.25,1080,nvidia,lenovo,512,2.0,nvidia geforce rtx 3050
+661,207290,1,8192,intel,core i7,1,16,0,windows,0,15.6,2.1,1440,nvidia,msi,1000,2.0,nvidia geforce rtx 3070
+662,147990,1,6144,amd,ryzen 9 octa core,1,16,0,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3060
+663,82990,1,4096,amd,ryzen 7 octa core,1,8,0,windows,0,15.6,2.1,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3050
+664,55990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.38,1440,none,realme,512,4.5,intel iris xe
+665,42990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.38,1440,none,realme,256,4.5,intel uhd
+666,76990,1,4096,amd,ryzen 7 octa core,1,8,1,windows,0,15.6,2.1,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+667,55990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.38,1440,none,realme,512,4.5,intel iris xe
+668,84990,1,4096,intel,core i7,1,16,1,windows,0,15.6,2.23,1080,nvidia,hp,512,2.0,nvidia geforce gtx 1650
+669,85990,1,4096,intel,core i5,1,16,1,windows,0,15.6,2.0,1080,nvidia,asus,512,2.0,nvidia geforce rtx
+670,63900,2,0,intel,core i5,1,16,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel iris xe
+671,64489,2,0,amd,ryzen 5 hexa core,1,16,0,windows,0,13.3,0.97,1080,amd,hp,512,4.5,amd radeon
+672,77590,2,2048,intel,core i5,1,16,0,windows,1,13.3,1.3,1080,nvidia,hp,512,4.5,nvidia geforce mx 450
+673,43490,5,0,intel,core i3,0,8,0,windows,0,15.6,0.9746666666666668,1080,none,dell,1000,5.0,intel hd
+674,33990,2,0,intel,core i3,0,4,1,windows,0,14.1,1.6,1080,none,asus,1000,4.5,intel uhd
+675,108490,1,4096,intel,core i7,1,16,0,windows,0,15.6,2.25,1080,nvidia,msi,512,2.0,nvidia geforce rtx 3050 ti
+676,179990,1,8192,intel,core i7,1,16,0,windows,0,17.3,2.9,1080,nvidia,msi,1000,2.0,nvidia geforce rtx 3070
+677,129990,1,6144,intel,core i7,1,16,1,windows,0,15.6,2.3,1440,nvidia,acer,1000,2.0,nvidia geforce rtx 3060
+678,154990,1,12288,amd,ryzen 9 octa core,1,16,1,windows,0,15.6,2.5,1440,amd,asus,1000,2.0,amd radeon rx 6800m
+679,57990,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.98,1080,nvidia,hp,512,2.0,nvidia geforce gtx 1650
+680,70990,1,4096,amd,ryzen 7 octa core,1,8,1,windows,0,15.6,2.1,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+681,62990,5,2048,intel,core i5,1,8,0,windows,0,15.6,0.9746666666666668,1080,nvidia,asus,1256,5.0,nvidia geforce mx 330
+682,40990,5,0,intel,core i3,1,8,0,windows,0,14.0,0.9746666666666668,1080,none,lenovo,256,5.0,intel hd
+683,48990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,none,redmibook,512,4.5,intel iris xe
+684,40990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,redmibook,256,4.5,intel uhd
+685,44990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,14.0,1.3,1080,amd,msi,512,4.5,amd radeon
+686,67990,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.28,1080,nvidia,hp,1256,2.0,nvidia geforce gtx 1650
+687,84990,2,0,amd,ryzen 7 octa core,1,16,0,windows,0,13.3,1.14,1080,amd,asus,1000,4.5,amd radeon
+688,38990,2,0,intel,core i3,1,8,1,windows,0,14.96,1.58,1080,none,dell,256,4.5,intel uhd
+689,51990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.76,1080,amd,acer,512,4.5,amd radeon 5500u
+690,56490,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,14.0,1.2,1080,amd,acer,512,4.5,amd radeon 5500u
+691,74990,2,0,amd,ryzen 5 hexa core,1,16,0,windows,0,13.3,1.14,1080,amd,asus,512,4.5,amd radeon
+692,69099,5,2048,intel,core i5,1,8,1,windows,0,15.6,1.85,1080,nvidia,dell,1256,5.0,nvidia geforce mx 350
+693,41990,2,0,intel,core i3,0,8,1,windows,0,14.0,1.58,1080,none,dell,1000,4.5,intel uhd
+694,54190,2,2048,intel,core i5,1,8,1,windows,0,14.0,1.58,1080,nvidia,dell,512,4.5,nvidia geforce mx 330
+695,58990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.39,1080,none,lenovo,512,4.5,intel iris xe
+696,34990,2,0,intel,core i3,1,4,1,windows,0,14.0,1.58,1080,none,dell,1256,4.5,intel uhd
+697,65900,2,0,amd,ryzen 5 hexa core,1,16,0,windows,0,13.3,0.97,1080,amd,hp,512,4.5,amd radeon
+698,40890,2,0,amd,ryzen 3 quad core,1,8,1,windows,0,15.6,1.69,1080,amd,hp,512,4.5,amd radeon
+699,69490,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,2.35,1080,amd,msi,512,2.0,amd radeon 5500m
+700,63990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,none,asus,1256,4.5,intel uhd
+701,56199,2,0,intel,core i5,1,8,0,windows,0,15.6,1.39,1080,none,lenovo,256,4.5,intel iris xe
+702,41399,5,0,intel,core i3,1,4,0,windows,0,15.6,0.9746666666666668,1080,none,asus,256,5.0,intel hd
+703,76527,1,4096,intel,core i7,1,8,1,windows,0,15.6,2.2,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+704,41990,2,0,intel,core i3,1,8,0,windows,0,15.6,1.8,1080,none,asus,512,4.5,intel uhd
+705,38990,2,0,intel,core i3,1,4,0,windows,0,15.6,1.8,1080,none,asus,512,4.5,intel uhd
+706,49990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,none,asus,512,4.5,intel uhd
+707,51990,2,2048,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,nvidia,asus,512,4.5,nvidia geforce mx 130
+708,52990,2,0,amd,ryzen 5 quad core,1,8,1,windows,0,14.0,1.51,1080,amd,hp,1256,4.5,amd radeon
+709,40990,2,0,intel,core i3,1,8,1,windows,0,14.0,1.58,1080,none,dell,512,4.5,intel uhd
+710,58500,5,0,intel,core i5,1,4,0,windows,0,14.0,0.9746666666666668,1080,none,lenovo,512,5.0,intel hd
+711,36990,2,0,intel,core i3,0,8,1,windows,0,15.6,1.7,1080,none,lenovo,1000,4.5,intel uhd
+712,114990,1,6144,intel,core i7,1,16,0,windows,0,15.6,2.25,1080,nvidia,msi,1000,2.0,nvidia geforce rtx 3060
+713,39990,2,0,intel,core i3,1,4,1,windows,0,15.6,1.7,1080,none,lenovo,256,4.5,intel uhd
+714,35490,2,0,intel,core i3,0,8,1,windows,0,15.6,1.7,720,none,lenovo,1000,4.5,intel uhd
+715,39990,2,0,intel,core i3,1,8,1,windows,0,15.6,1.6,1080,none,lenovo,256,4.5,intel uhd
+716,21490,2,0,amd,apu dual core a6,1,4,0,windows,0,14.0,1.34,720,amd,avita,128,4.5,amd radeon r4
+717,141990,1,6144,amd,ryzen 9 octa core,1,16,1,windows,0,15.6,1.9,1440,nvidia,asus,1000,2.0,nvidia geforce rtx 3060
+718,43490,4,0,intel,core i3,1,8,1,windows,0,14.0,1.68,1080,none,acer,1256,4.5,intel uhd
+719,52990,4,0,intel,core i5,1,8,1,windows,0,14.0,1.68,1080,none,acer,1256,4.5,intel iris xe
+720,53880,2,0,intel,core i5,1,8,0,windows,0,14.0,1.49,1080,none,hp,512,4.5,intel uhd
+721,93999,3,0,intel,core i5,1,16,0,windows,1,14.0,1.43,1080,none,lenovo,512,5.0,intel iris xe
+722,19990,8,0,mediatek,mediatek kompanio 500,0,4,0,chrome,1,11.6,1.07,720,none,hp,64,8.0,mediatek
+723,56999,2,0,intel,core i5,1,8,1,windows,0,15.6,1.65,1080,none,lenovo,512,4.5,intel iris xe
+724,102990,2,0,apple,m1,1,8,1,mac,0,13.3,1.29,1440,none,apple,512,4.5,m1
+725,149990,2,0,apple,m1,1,8,1,mac,0,13.3,1.4,1440,none,apple,1000,4.5,m1
+726,102990,2,0,apple,m1,1,8,1,mac,0,13.3,1.29,1440,none,apple,512,4.5,m1
+727,21896,4,0,amd,apu dual core a9,0,4,0,dos,0,14.0,2.2,720,amd,lenovo,1000,4.5,amd radeon
+728,109990,1,6144,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.37,1080,nvidia,hp,1000,2.0,nvidia geforce rtx 3060
+729,21990,8,0,intel,celeron dual core,0,4,0,chrome,1,11.6,1.2,720,none,asus,64,8.0,intel uhd 600
+730,19990,8,0,intel,celeron dual core,0,4,0,chrome,0,11.6,1.0,720,none,asus,32,8.0,intel hd 500
+731,20499,8,0,intel,celeron dual core,0,4,0,chrome,0,15.6,1.43,720,none,asus,64,8.0,intel hd 500
+732,158490,1,8192,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.37,1440,nvidia,hp,1000,2.0,nvidia geforce rtx 3070
+733,22990,8,0,intel,celeron dual core,0,4,0,chrome,1,14.0,1.34,720,none,asus,64,8.0,intel hd 500
+734,19990,8,0,intel,celeron dual core,0,4,0,chrome,0,14.0,1.2,720,none,asus,64,8.0,intel hd 500
+735,239990,6,4096,amd,ryzen 9 octa core,1,32,1,windows,1,13.4,1.3,2160,nvidia,asus,1000,4.0,nvidia geforce gtx 1650
+736,23990,8,0,intel,celeron dual core,0,4,0,chrome,1,15.6,1.69,1080,none,asus,64,8.0,intel hd 500
+737,88900,1,4096,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,1.98,1080,nvidia,hp,512,2.0,nvidia geforce rtx 3050
+738,20990,2,0,intel,celeron dual core,0,4,0,windows,0,11.6,1.05,720,none,asus,64,4.5,intel uhd 600
+739,75999,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,2.2,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+740,68990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,14.1,1.4,1080,amd,asus,1000,4.5,amd radeon
+741,27090,4,0,amd,apu dual core a9,0,4,0,windows,0,14.0,2.2,720,amd,lenovo,1000,4.5,amd radeon r5
+742,50990,2,0,intel,core i5,1,8,1,windows,0,14.0,1.41,1080,none,lenovo,512,4.5,intel iris xe
+743,65490,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.3,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+744,72990,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,2.4,1080,nvidia,acer,1256,2.0,nvidia geforce rtx 3050
+745,72748,2,0,intel,core i5,1,16,1,windows,0,14.0,1.5,1080,none,dell,512,4.5,intel iris xe
+746,59490,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,14.0,1.5,1080,amd,dell,512,4.5,amd radeon
+747,101990,1,4096,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.1,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+748,58990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,14.0,1.4,1080,amd,asus,512,4.5,amd radeon
+749,28021,4,0,amd,apu dual core a6,0,4,0,windows,0,14.0,2.2,720,amd,lenovo,1000,4.5,amd radeon r4 (stoney ridge)
+750,42490,2,0,intel,core i3,1,8,0,windows,0,15.6,1.74,1080,none,hp,512,4.5,intel uhd
+751,83990,3,2048,intel,core i5,1,16,1,windows,1,14.0,1.56,1080,nvidia,dell,512,5.0,nvidia geforce mx 350
+752,55990,2,2048,intel,core i5,1,8,0,windows,0,15.6,1.4946421471172964,1080,nvidia,asus,1256,4.5,nvidia geforce mx 330
+753,68990,2,0,intel,core i5,1,16,1,windows,0,15.3,1.65,1080,none,dell,512,4.5,intel iris xe
+754,59490,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.64,1080,amd,dell,512,4.5,amd radeon vega
+755,71987,2,2048,intel,core i5,1,16,1,windows,0,15.6,1.65,1080,nvidia,dell,512,4.5,nvidia geforce mx 450
+756,71900,5,0,intel,core i5,1,16,1,windows,0,15.6,1.65,1080,none,dell,512,5.0,intel iris xe
+757,88990,2,2048,intel,core i5,1,16,1,windows,0,14.0,1.35,1440,nvidia,dell,512,4.5,nvidia geforce mx 350
+758,181790,2,0,intel,core i7,1,16,1,windows,1,13.4,1.27,2160,none,dell,1000,4.5,intel iris xe
+759,78000,5,0,amd,ryzen 5 hexa core,1,16,1,windows,0,17.3,2.3,1080,amd,asus,512,5.0,amd radeon
+760,62990,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.98,1080,nvidia,hp,512,2.0,nvidia geforce gtx 1650 ti
+761,78990,3,0,intel,core i5,1,16,1,windows,1,14.0,1.56,1080,none,dell,512,5.0,intel iris xe
+762,70890,3,0,intel,core i5,1,8,1,windows,1,14.0,1.56,1080,none,dell,512,5.0,intel iris xe
+763,109990,1,4096,intel,core i7,1,8,1,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+764,55490,1,4096,intel,core i5,0,8,0,windows,0,15.6,1.86,1080,nvidia,msi,1000,2.0,nvidia geforce gtx 1650 max q
+765,75090,1,4096,intel,core i5,1,16,1,windows,0,15.6,2.4,1080,nvidia,dell,512,2.0,nvidia geforce gtx 1650
+766,76990,1,4096,intel,core i5,1,16,1,windows,0,15.6,2.4,1080,nvidia,dell,512,2.0,nvidia geforce gtx 1650
+767,109990,6,4096,amd,ryzen 9 octa core,1,16,1,windows,1,13.4,1.3,1080,nvidia,asus,1000,4.0,nvidia geforce gtx 1650
+768,78990,1,4096,intel,core i5,1,8,1,windows,0,17.3,2.6,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+769,65990,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.4,1080,nvidia,dell,512,2.0,nvidia geforce gtx 1650
+770,128990,1,6144,intel,core i7,1,16,0,windows,0,15.6,1.7,1080,nvidia,msi,1000,2.0,nvidia geforce rtx 3060
+771,36990,2,0,intel,core i3,0,8,0,windows,0,15.6,1.76,1080,none,hp,1000,4.5,intel uhd
+772,58990,2,2048,intel,core i5,1,8,1,windows,0,15.6,1.66,1080,nvidia,lenovo,1256,4.5,nvidia geforce mx 450
+773,66990,2,2048,intel,core i5,1,16,0,windows,0,15.6,1.66,1080,nvidia,lenovo,512,4.5,nvidia geforce mx 450
+774,37126,2,0,intel,core i3,1,4,1,windows,0,14.0,1.58,1080,none,dell,1256,4.5,intel uhd
+775,61990,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.98,1080,nvidia,hp,512,2.0,nvidia geforce gtx 1650
+776,69490,3,0,amd,ryzen 5 hexa core,1,8,1,windows,1,14.0,1.56,1080,amd,dell,512,5.0,amd radeon vega
+777,79990,3,2048,intel,core i5,1,8,1,windows,1,14.0,1.56,1080,nvidia,dell,512,5.0,nvidia geforce mx 350
+778,51499,2,0,intel,core i3,1,8,1,windows,0,14.0,1.41,1080,none,lenovo,256,4.5,intel uhd
+779,61990,2,0,intel,core i5,1,16,0,windows,0,15.6,1.66,1080,none,lenovo,512,4.5,intel iris xe
+780,69990,1,6144,intel,hexa core i5,1,16,0,windows,0,15.6,1.86,1080,nvidia,msi,512,2.0,nvidia geforce rtx 3060
+781,54990,1,4096,intel,hexa core i5,1,8,0,windows,0,15.6,1.86,1080,nvidia,msi,1256,2.0,nvidia geforce gtx 1650 max q
+782,64990,5,2048,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,nvidia,dell,512,5.0,nvidia geforce mx 250
+783,68499,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.3,1080,nvidia,dell,512,2.0,nvidia geforce gtx 1650 ti
+784,53990,2,0,intel,core i5,1,8,1,windows,0,15.6,1.65,1080,none,lenovo,512,4.5,intel iris xe
+785,43790,2,0,intel,core i3,1,8,1,windows,0,14.0,1.41,1080,none,lenovo,256,4.5,intel uhd
+786,58990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,14.0,1.4,1080,amd,asus,512,4.5,amd radeon
+787,59990,2,0,amd,ryzen 7 octa core,1,8,0,windows,0,14.0,1.39,1080,amd,lenovo,512,4.5,amd radeon
+788,75990,1,4096,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.19,1080,nvidia,hp,1256,2.0,nvidia geforce gtx 1650 ti
+789,89990,1,6144,intel,core i5,1,16,1,windows,0,15.6,2.3,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3060
+790,58990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,14.0,1.4,1080,amd,asus,512,4.5,amd radeon
+791,57990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.65,1080,none,lenovo,512,4.5,intel iris xe
+792,155411,2,0,intel,core i5,1,16,0,windows,1,14.0,1.55,1080,none,lenovo,1024,4.5,intel uhd
+793,81999,2,0,intel,core i5,1,16,0,windows,0,14.0,1.36,1080,none,lenovo,512,4.5,intel iris xe
+794,96990,2,0,intel,core i7,1,16,1,windows,1,14.0,1.36,1080,none,lenovo,1000,4.5,intel iris xe
+795,48490,2,0,intel,core i5,1,8,0,windows,0,15.6,1.65,1080,none,lenovo,256,4.5,intel iris xe
+796,110400,1,4096,amd,ryzen 7 octa core,1,8,1,windows,0,14.0,1.6,1080,nvidia,asus,1000,2.0,nvidia geforce rtx 3050
+797,84086,5,2048,intel,core i5,1,8,0,windows,0,15.6,1.7,1080,nvidia,lenovo,512,5.0,nvidia geforce mx 350
+798,67990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.7,1080,none,lenovo,512,4.5,intel iris xe
+799,46498,5,0,intel,core i3,1,8,0,windows,0,15.6,1.74,720,none,hp,512,5.0,intel uhd
+800,53990,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.2,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+801,72199,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.3,1080,nvidia,lenovo,1256,2.0,nvidia geforce gtx 1650
+802,77990,2,0,intel,core i7,1,8,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel iris xe
+803,65990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.7,1080,none,lenovo,512,4.5,intel iris xe
+804,77990,5,0,intel,core i5,1,16,0,windows,0,15.6,1.7,1080,none,lenovo,512,5.0,intel iris xe
+805,125394,2,0,intel,core i5,1,8,0,windows,1,14.0,1.55,1080,none,lenovo,1024,4.5,intel uhd
+806,62790,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,17.3,2.3,1080,amd,asus,1256,4.5,amd radeon
+807,102990,2,0,intel,core i7,1,16,0,windows,0,13.3,1.14,1080,none,asus,1000,4.5,intel iris xe
+808,27990,5,0,amd,athlon dual core,0,4,1,windows,0,15.6,1.85,720,amd,lenovo,1000,5.0,amd radeon
+809,27890,5,0,amd,athlon dual core,0,4,1,windows,0,15.6,1.85,1080,amd,lenovo,1000,5.0,amd radeon
+810,114690,2,0,intel,core i5,1,16,1,windows,0,13.3,1.16,1080,none,dell,512,4.5,intel iris xe
+811,34990,2,0,intel,core i3,1,4,0,windows,0,14.0,1.55,1080,none,asus,256,4.5,intel uhd
+812,61990,2,0,intel,core i5,1,8,1,windows,0,14.0,1.58,1080,none,dell,1256,4.5,intel iris xe
+813,36057,2,0,intel,core i3,1,4,1,windows,0,14.0,1.58,1080,none,dell,256,4.5,intel uhd
+814,68999,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.2,1080,nvidia,lenovo,1256,2.0,nvidia geforce gtx 1650
+815,63990,1,4096,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,2.2,1080,nvidia,lenovo,1256,2.0,nvidia geforce gtx 1650
+816,56990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.39,1080,none,lenovo,512,4.5,intel iris xe
+817,67990,2,0,amd,ryzen 7 octa core,1,16,0,windows,0,15.6,1.66,1080,amd,lenovo,512,4.5,amd radeon
+818,27990,5,0,amd,athlon dual core,0,4,1,dos,0,15.6,1.85,720,amd,lenovo,1000,5.0,amd radeon
+819,65990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.3,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650 ti
+820,43126,2,0,intel,core i3,1,4,0,windows,0,14.0,1.58,1080,none,dell,1256,4.5,intel uhd
+821,54990,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.15,1080,nvidia,acer,512,2.0,nvidia geforce gtx 1650
+822,92590,1,4096,intel,octa core i7,1,16,1,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce gtx 1650 ti
+823,84500,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,14.0,1.6,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650 ti
+824,62990,3,0,amd,ryzen 5 hexa core,1,8,0,windows,1,14.0,1.5,1080,amd,asus,512,5.0,amd radeon
+825,75990,1,6144,intel,hexa core i5,1,16,0,windows,0,15.6,1.86,1080,nvidia,msi,512,2.0,nvidia geforce gtx 1660 ti
+826,77990,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,14.0,1.22,1080,amd,asus,512,4.5,amd radeon
+827,64290,2,0,intel,core i5,1,8,1,windows,0,14.0,1.5,1080,none,dell,512,4.5,intel iris xe
+828,72990,3,0,intel,core i5,1,8,1,windows,1,14.0,1.56,1080,none,dell,512,5.0,intel iris xe
+829,67999,2,2048,intel,core i5,1,8,1,windows,0,15.6,1.83,1080,nvidia,dell,1256,4.5,nvidia geforce mx 330
+830,55990,2,0,intel,core i5,1,4,1,windows,0,14.9,1.83,1080,none,dell,1256,4.5,intel iris xe
+831,88990,1,6144,intel,core i5,1,16,1,windows,0,15.6,2.0,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3060
+832,40490,2,0,intel,core i3,1,8,0,windows,0,15.6,1.83,1080,none,dell,256,4.5,intel uhd
+833,44999,2,0,intel,core i3,0,8,1,windows,0,15.6,1.83,1080,none,dell,1000,4.5,intel uhd
+834,44390,2,0,intel,core i3,1,8,1,windows,0,14.0,1.46,720,none,hp,256,4.5,intel uhd
+835,102999,5,0,intel,core i7,1,16,0,windows,0,14.0,0.9746666666666668,1080,none,lenovo,512,5.0,intel iris xe
+836,109990,2,0,intel,core i7,1,16,0,windows,0,13.3,0.966,1440,none,lenovo,1000,4.5,intel iris xe
+837,94990,5,0,intel,core i5,1,8,0,windows,0,13.3,0.9746666666666668,1080,none,dell,512,5.0,intel hd
+838,42990,5,0,intel,core i3,0,8,0,windows,0,15.6,0.9746666666666668,1080,none,dell,1000,5.0,intel hd
+839,67490,1,4096,intel,core i7,1,8,0,windows,0,15.6,1.86,1080,nvidia,msi,1256,2.0,nvidia geforce gtx 1650 max q
+840,37999,2,0,intel,core i3,1,8,0,windows,0,14.0,1.46,1080,none,hp,256,4.5,intel uhd
+841,94990,1,6144,amd,ryzen 7 octa core,1,16,1,windows,0,15.6,2.4,1080,nvidia,acer,1256,2.0,nvidia geforce rtx 3060
+842,136990,2,2048,intel,core i7,1,16,0,windows,1,14.0,1.62,1080,none,asus,1000,4.5,intel iris xe
+843,77990,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.3,1080,nvidia,asus,1000,2.0,nvidia geforce gtx 1650 ti
+844,62990,3,0,intel,core i3,1,8,1,windows,1,14.0,1.56,1080,none,dell,512,5.0,intel uhd
+845,80490,2,0,intel,core i5,1,16,0,windows,0,14.0,1.29,1080,none,msi,512,4.5,intel iris xe
+846,51490,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.69,1080,amd,hp,512,4.5,amd radeon
+847,99990,6,4096,amd,ryzen 7 octa core,1,16,1,windows,1,13.4,1.3,1080,nvidia,asus,1000,4.0,nvidia geforce gtx 1650
+848,70990,2,0,intel,core i7,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,4.5,intel iris xe
+849,119990,6,4096,amd,ryzen 9 octa core,1,16,1,windows,1,13.4,1.3,2160,nvidia,asus,1000,4.0,nvidia geforce gtx 1650
+850,129990,6,4096,amd,ryzen 9 octa core,1,32,1,windows,1,13.4,1.3,2160,nvidia,asus,1000,4.0,nvidia geforce gtx 1650
+851,65990,5,0,intel,core i5,1,8,0,windows,0,15.6,1.7,1080,none,lenovo,512,5.0,intel uhd
+852,76499,2,2048,intel,core i5,1,8,1,windows,0,15.6,1.65,1080,nvidia,dell,512,4.5,nvidia geforce mx 450
+853,79990,3,0,intel,core i5,1,8,0,windows,1,13.3,1.3,1080,none,asus,512,5.0,intel iris xe
+854,33990,2,0,intel,core i3,0,4,0,windows,0,15.6,1.8,720,none,asus,1000,4.5,intel uhd
+855,59990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.3,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+856,54990,1,4096,intel,core i5,1,8,0,windows,0,15.6,2.14,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650
+857,87490,1,6144,intel,core i5,1,16,0,windows,0,15.6,2.0,1080,nvidia,asus,512,2.0,nvidia geforce rtx 3060
+858,132490,1,6144,intel,core i7,1,16,0,windows,0,15.6,2.33,1080,nvidia,msi,1256,2.0,nvidia geforce rtx 2060
+859,32990,2,0,amd,ryzen 3 dual core,1,4,0,windows,0,15.6,1.8,1080,amd,asus,256,4.5,amd radeon
+860,58498,2,0,intel,core i5,1,8,0,windows,0,14.0,1.46,1080,none,hp,512,4.5,intel iris xe
+861,54990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.65,1080,none,acer,512,4.5,intel iris xe
+862,39990,4,0,amd,ryzen 3 dual core,0,8,1,windows,0,15.6,1.83,1080,amd,dell,1000,4.5,amd radeon vega
+863,60990,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,2.3,1080,nvidia,acer,1256,2.0,nvidia geforce gtx 1650
+864,40990,2,0,intel,core i3,0,8,1,windows,0,14.0,1.58,1080,none,dell,1000,4.5,intel uhd
+865,51900,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,14.0,1.46,1080,amd,hp,512,4.5,amd radeon
+866,55690,2,2048,intel,core i5,1,8,1,windows,0,14.0,1.58,1080,nvidia,dell,512,4.5,nvidia geforce mx 330
+867,60990,2,2048,intel,core i5,1,8,1,windows,0,15.6,1.75,1080,nvidia,hp,512,4.5,nvidia geforce mx 350
+868,57990,2,0,amd,ryzen 7 octa core,1,8,1,windows,0,15.6,1.76,1080,amd,acer,512,4.5,amd radeon
+869,49990,2,0,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,1.76,1080,amd,acer,512,4.5,amd radeon
+870,42990,2,0,intel,core i7,0,8,1,windows,0,14.0,1.8,720,none,acer,1000,4.5,intel uhd 620
+871,114990,2,2048,intel,core i5,1,16,0,windows,1,14.0,1.62,1080,nvidia,asus,512,4.5,nvidia geforce mx 450
+872,53990,2,0,amd,ryzen 5 quad core,1,8,0,windows,0,15.6,1.69,1080,amd,hp,512,4.5,amd radeon vega 8
+873,63500,2,0,intel,core i5,1,8,0,windows,0,14.0,1.46,720,none,hp,512,4.5,intel iris xe
+874,101990,2,0,intel,core i5,1,8,0,windows,1,14.0,1.62,1080,none,asus,512,4.5,intel iris xe
+875,75100,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.8,1080,amd,asus,1256,4.5,intel hd 5500
+876,46990,2,0,intel,core i3,1,8,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel uhd
+877,48999,2,0,amd,ryzen 5 hexa core,1,8,0,windows,0,15.6,1.8,1080,amd,asus,512,4.5,amd radeon
+878,99990,1,6144,intel,octa core i7,1,16,1,windows,0,15.6,2.3,1080,nvidia,acer,1256,2.0,nvidia geforce rtx 3060
+879,43000,2,0,intel,core i3,0,8,1,windows,0,15.6,1.83,1080,none,dell,1000,4.5,intel uhd
+880,79990,3,0,intel,core i5,1,8,0,windows,1,13.3,1.3,1080,none,asus,512,5.0,intel iris xe
+881,44990,5,0,intel,core i3,1,4,0,windows,0,15.6,1.7,1080,none,lenovo,256,5.0,intel uhd
+882,66490,5,0,intel,core i5,1,8,0,windows,0,15.6,1.7,1080,none,lenovo,512,5.0,intel uhd
+883,122488,2,0,intel,core i7,1,16,1,windows,0,13.3,0.996,1080,none,lenovo,1000,4.5,intel iris xe
+884,20490,8,0,mediatek,mediatek kompanio 500,0,4,0,chrome,1,11.6,1.07,720,none,hp,64,8.0,mediatek
+885,94990,1,6144,amd,ryzen 5 hexa core,1,16,1,windows,0,15.6,2.4,1080,nvidia,acer,1256,2.0,nvidia geforce rtx 3060
+886,58990,5,0,intel,core i5,0,8,0,windows,0,14.0,0.9746666666666668,1080,none,dell,1000,5.0,intel hd
+887,58999,5,0,intel,core i5,1,8,0,windows,0,14.0,0.9746666666666668,1080,none,lenovo,1256,5.0,intel hd
+888,265998,1,8192,intel,core i9,1,16,0,windows,0,15.6,2.0686486486486486,1080,nvidia,lenovo,1000,2.0,nvidia geforce rtx 2080 super max-q
+889,45900,2,0,intel,core i3,1,8,0,windows,0,15.6,1.69,1080,none,hp,256,4.5,intel uhd
+890,55999,5,2048,intel,core i5,0,4,0,windows,0,14.0,0.9746666666666668,1080,nvidia,lenovo,1000,5.0,nvidia geforce
+891,79990,3,0,amd,ryzen 7 octa core,1,16,0,windows,1,13.3,1.32,1080,amd,lenovo,512,5.0,amd radeon
+892,81990,3,0,intel,core i7,1,16,0,windows,1,14.0,1.5,1080,none,lenovo,512,5.0,intel iris xe
+893,56490,5,0,intel,core i5,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,5.0,intel uhd
+894,43690,2,0,intel,core i3,0,8,1,windows,0,15.6,1.77,1080,none,hp,1000,4.5,intel uhd
+895,37990,2,0,intel,core i3,1,8,1,windows,0,14.0,1.46,1080,none,hp,256,4.5,intel uhd
+896,32490,2,0,amd,ryzen 3 dual core,1,4,0,windows,0,15.6,1.8,1080,amd,asus,256,4.5,amd radeon
+897,82000,1,4096,amd,ryzen 7 octa core,1,8,1,windows,0,15.6,2.2,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650
+898,82990,1,6144,intel,core i5,1,16,1,windows,0,15.6,2.3,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1660 ti
+899,44800,2,0,intel,core i3,1,8,0,windows,0,15.6,1.75,1080,none,hp,512,4.5,intel uhd
+900,74990,2,2048,intel,core i5,1,16,0,windows,0,14.0,1.41,1080,nvidia,hp,512,4.5,nvidia geforce mx 450
+901,61000,2,0,intel,core i5,1,8,0,windows,0,15.6,1.69,1080,none,hp,512,4.5,intel iris xe
+902,48900,2,0,intel,core i3,1,8,0,windows,0,15.6,1.75,1080,none,hp,512,4.5,intel uhd
+903,60390,2,0,intel,core i5,1,8,1,windows,0,15.6,1.69,1080,none,hp,512,4.5,intel iris xe
+904,57899,3,0,intel,core i3,1,8,0,windows,1,14.0,1.5,1080,none,lenovo,512,5.0,intel uhd
+905,53990,3,0,intel,core i3,1,8,0,windows,1,14.0,1.5,1080,none,lenovo,512,5.0,intel uhd
+906,102990,2,0,apple,m1,1,8,1,mac,0,13.3,1.29,1440,none,apple,512,4.5,m1
+907,54990,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,2.15,1080,nvidia,acer,512,2.0,nvidia geforce gtx 1650
+908,51990,3,0,intel,core i3,1,8,0,windows,1,14.0,1.5,1080,none,lenovo,256,5.0,intel uhd
+909,55490,3,0,intel,core i3,1,8,1,windows,1,14.0,1.61,1080,none,hp,512,5.0,intel uhd
+910,60870,2,2048,intel,core i5,1,8,1,windows,0,15.6,1.8,1080,nvidia,lenovo,1256,4.5,nvidia geforce mx 250
+911,168998,3,0,intel,core i7,1,16,0,windows,1,14.0,1.44,2160,none,lenovo,1000,5.0,intel iris xe
+912,94000,7,0,intel,core i5,1,8,0,windows,0,13.3,0.8,720,none,hp,512,6.0,intel hd
+913,42090,5,0,intel,core i3,0,8,0,windows,0,14.96,0.9746666666666668,1080,none,dell,1000,5.0,intel uhd
+914,99990,3,0,intel,core i7,1,16,0,windows,1,14.0,1.43,1080,none,lenovo,512,5.0,intel iris xe
+915,64390,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.3,1080,nvidia,lenovo,1256,2.0,nvidia geforce gtx 1650
+916,51990,2,0,intel,core i5,0,8,1,windows,0,14.0,1.58,1080,none,dell,1000,4.5,intel iris xe
+917,39490,5,0,intel,core i3,1,4,1,windows,0,15.0,1.83,1080,none,dell,256,5.0,intel uhd
+918,37990,2,0,intel,core i3,1,8,1,windows,0,14.0,1.58,1080,none,dell,256,4.5,intel uhd
+919,59990,2,2048,intel,core i7,1,8,0,windows,0,14.0,1.35,1080,nvidia,mi,512,4.5,nvidia geforce mx 350
+920,63990,1,4096,intel,core i5,1,8,1,windows,0,15.6,2.3,1080,nvidia,asus,512,2.0,nvidia geforce gtx 1650 ti
+921,54490,2,2048,intel,core i5,0,8,1,windows,0,15.6,1.77,1080,nvidia,hp,1000,4.5,nvidia geforce mx 350
+922,53990,3,0,intel,core i3,1,8,1,windows,1,14.0,1.61,1080,none,hp,256,5.0,intel uhd
+923,40990,2,0,intel,core i3,0,8,1,windows,0,14.0,1.58,1080,none,dell,1000,4.5,intel uhd
+924,41490,5,0,amd,ryzen 3 dual core,1,8,1,windows,0,15.6,1.82,1080,amd,hp,1256,5.0,amd radeon vega 6
+925,44990,2,0,intel,core i5,0,8,0,windows,0,15.6,1.8,1080,none,asus,1000,4.5,intel uhd
+926,40090,2,0,intel,core i3,0,8,0,windows,0,15.6,1.8,1080,none,asus,1000,4.5,intel uhd
+927,50990,2,0,intel,core i5,1,8,0,windows,0,15.6,1.8,1080,none,asus,1256,4.5,intel uhd
+928,73990,3,4096,intel,core i5,1,8,0,windows,1,14.0,1.5,1080,none,asus,512,5.0,intel iris xe max
+929,39990,5,0,intel,core i3,1,8,0,windows,0,14.0,1.3,1080,none,msi,256,5.0,intel uhd
+930,44990,2,0,intel,core i3,0,8,1,windows,0,15.6,1.77,1080,none,hp,1000,4.5,intel uhd
+931,47490,5,0,intel,core i3,1,8,0,windows,0,14.0,1.3,1080,none,msi,512,5.0,intel uhd
+932,154990,5,4096,intel,core i7,1,16,0,windows,1,15.6,1.79,1080,nvidia,msi,1000,5.0,nvidia geforce gtx 1650 ti max-q
+933,68290,3,0,intel,core i5,1,8,1,windows,1,14.0,1.72,1080,none,dell,512,5.0,intel iris xe
+934,58800,3,0,intel,core i3,1,4,1,windows,1,14.0,1.72,1080,none,dell,512,5.0,intel uhd
+935,115990,2,0,intel,core i5,1,8,1,windows,0,13.3,1.2,1080,none,dell,512,4.5,intel iris xe
+936,62490,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,2.2,1080,nvidia,lenovo,1256,2.0,nvidia geforce gtx 1650
+937,56992,5,2048,intel,core i5,1,8,1,windows,0,15.6,2.2,1080,amd,dell,1256,5.0,amd radeon 520
+938,39990,2,0,intel,core i3,0,8,1,windows,0,15.6,1.77,1080,none,hp,1000,4.5,intel uhd
+939,62890,2,0,intel,core i5,1,8,0,windows,0,14.0,1.35,1080,none,vaio,512,4.5,intel uhd 620
+940,86990,2,2048,intel,core i5,1,8,1,windows,0,14.5,1.35,1440,nvidia,dell,512,4.5,nvidia geforce mx 350
+941,159990,1,8192,intel,core i7,1,16,1,windows,0,15.6,2.1,1080,nvidia,acer,2000,2.0,nvidia geforce rtx 2070 max-q
+942,75999,1,4096,amd,ryzen 5 hexa core,1,8,1,windows,0,15.6,2.2,1080,nvidia,lenovo,512,2.0,nvidia geforce gtx 1650 ti
+943,50001,2,0,intel,core i5,1,8,1,windows,0,15.6,1.85,1080,none,lenovo,512,4.5,intel uhd
+944,45990,5,2048,intel,core i5,0,8,1,windows,0,15.6,1.9,1080,nvidia,acer,1000,5.0,nvidia geforce gtx mx 330
+945,41990,2,0,intel,core i3,1,4,0,windows,0,14.0,1.4,1080,none,asus,256,4.5,intel uhd
+946,59990,2,0,intel,core i5,1,8,0,windows,0,14.0,1.4,1080,none,asus,512,4.5,intel iris xe
+947,57990,2,0,amd,ryzen 7 quad core,1,8,0,windows,0,15.6,1.77,1080,amd,vaio,512,4.5,amd radeon rx vega 10
+948,127990,2,0,apple,m1,1,8,1,mac,0,13.3,1.4,1440,none,apple,512,4.5,m1
+949,107990,2,0,apple,m1,1,8,1,mac,0,13.3,1.4,1440,none,apple,256,4.5,m1
+950,49590,2,0,amd,ryzen 5 quad core,1,8,0,windows,0,15.6,1.77,1080,amd,vaio,512,4.5,amd radeon vega 8
+951,87990,2,0,apple,m1,1,8,1,mac,0,13.3,1.29,1440,none,apple,256,4.5,m1
+952,56990,2,0,amd,ryzen 7 quad core,1,8,0,windows,0,15.6,1.77,1080,amd,vaio,512,4.5,amd radeon rx vega 10
+953,50990,2,0,amd,ryzen 5 quad core,1,8,0,windows,0,15.6,1.77,1080,amd,vaio,512,4.5,amd radeon vega 8
+954,87990,2,0,apple,m1,1,8,1,mac,0,13.3,1.29,1440,none,apple,256,4.5,m1
+955,107990,2,0,apple,m1,1,8,1,mac,0,13.3,1.4,1440,none,apple,256,4.5,m1
+956,104990,2,0,apple,m1,1,8,1,mac,0,13.3,1.29,1440,none,apple,512,4.5,m1
+957,127990,2,0,apple,m1,1,8,1,mac,0,13.3,1.4,1440,none,apple,512,4.5,m1
+958,54990,2,0,amd,ryzen 7 octa core,1,8,0,windows,0,14.0,1.39,1080,amd,lenovo,512,4.5,amd radeon
+959,51990,1,4096,amd,ryzen 5 quad core,1,8,1,windows,0,15.6,2.15,1080,nvidia,acer,512,2.0,nvidia geforce gtx 1650 ti
+960,51990,1,4096,amd,ryzen 5 quad core,1,8,1,windows,0,15.6,2.15,1080,nvidia,acer,512,2.0,nvidia geforce gtx 1650 ti
+961,93190,2,0,intel,core i7,1,16,0,windows,1,14.0,1.05,1080,none,acer,1000,4.5,intel iris xe
+962,65990,3,0,intel,core i5,1,8,1,windows,1,13.6,1.35,1080,none,lenovo,512,5.0,intel uhd
+963,60990,2,2048,intel,core i5,1,8,0,windows,0,14.0,1.6,1080,nvidia,lenovo,512,4.5,nvidia geforce mx 230
+964,42490,5,0,intel,core i3,0,8,1,windows,0,15.6,1.83,1080,none,dell,1000,5.0,intel uhd
+965,150490,1,8192,intel,core i7,1,16,1,windows,0,15.6,2.5,1080,nvidia,acer,2000,2.0,nvidia geforce rtx 2070 max-q
+966,97699,1,4096,intel,core i7,1,8,0,windows,0,15.6,2.0686486486486486,1080,nvidia,lenovo,1256,2.0,nvidia geforce gtx 1650 ti
+967,72000,7,0,intel,core i5,1,8,0,ubuntu,0,14.0,1.8,1080,none,dell,512,6.0,intel uhd
+968,30990,2,0,intel,core i3,0,4,1,windows,0,15.6,1.85,1080,none,lenovo,1000,4.5,intel hd 620
+969,244801,2,2048,intel,core i7,1,16,0,windows,0,14.0,1.55,1080,nvidia,lenovo,512,4.5,nvidia quadro p520
+970,272000,2,4096,intel,core i7,1,16,0,windows,0,15.6,2.5,1080,nvidia,lenovo,1000,4.5,nvidia quadro t2000
+971,48490,7,0,intel,core i5,0,8,0,windows,0,15.6,0.8,720,none,hp,1000,6.0,intel hd
+972,50100,2,0,intel,core i5,0,4,0,dos,0,14.0,1.4946421471172964,1080,none,lenovo,1000,4.5,intel uhd 620
+973,86990,2,2048,intel,core i5,1,8,0,windows,0,14.0,1.6,1080,nvidia,asus,512,4.5,nvidia geforce mx 110
+974,58999,2,0,intel,core i5,1,8,0,windows,0,14.0,1.6,1080,none,lenovo,1256,4.5,intel uhd
+975,54999,2,2048,intel,core i5,1,8,0,windows,0,14.0,1.35,1080,nvidia,mi,512,4.5,nvidia geforce mx 350
+976,53690,2,0,intel,core i5,1,8,0,windows,0,14.0,1.5,1080,none,asus,512,4.5,intel uhd 620
+977,142990,2,0,intel,core i7,1,16,0,windows,0,14.0,1.25,2160,none,lenovo,1000,4.5,intel iris plus
+978,214760,2,0,intel,core i7,1,16,0,windows,0,14.0,1.09,1440,none,lenovo,512,4.5,intel uhd
+979,53990,2,0,intel,core i5,1,8,1,windows,0,14.0,1.1,1080,none,nokia,512,4.5,intel uhd
+980,239759,3,0,intel,core i7,1,16,0,windows,1,13.3,1.49,1080,nvidia,hp,512,5.0,nvidia geforce gtx
+981,85555,3,0,amd,ryzen 5 hexa core,1,8,0,windows,1,13.3,1.32,1080,amd,hp,512,5.0,amd radeon
+982,26990,8,0,intel,celeron dual core,0,4,0,chrome,1,14.0,1.46,720,none,hp,64,8.0,intel uhd 605
+983,44590,5,0,intel,core i3,0,4,0,windows,0,14.0,1.6,720,amd,lenovo,1000,5.0,amd radeon r4
