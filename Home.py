@@ -1,8 +1,8 @@
 import streamlit as st
 from PIL import Image
 st.set_page_config(
-    page_title="Hello",
-    page_icon="👋",
+    page_title="Laptop price prediction",
+    page_icon="💻",
 )
 
 st.write("# Market analysis of laptops (June 2022)")
